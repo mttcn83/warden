@@ -49,7 +49,10 @@ export const STRICTNESS = [
 const isObject = v => v && typeof v === 'object' && !Array.isArray(v);
 /** Copy `patch` into `target`, going into nested objects so only the named fields change. */
 export function deepMerge(target, patch) {
-  for (const [k, v] of Object.entries(patch)) target[k] = isObject(v) && isObject(target[k]) ? deepMerge(target[k], v) : v;
+  for (const [k, v] of Object.entries(patch)) {
+    if (k === '__proto__' || k === 'constructor' || k === 'prototype') continue; // never let a patch reach into Object.prototype
+    target[k] = isObject(v) && isObject(target[k]) ? deepMerge(target[k], v) : v;
+  }
   return target;
 }
 /** Merge a preset (or a set of wizard answers) into a server's saved settings: only the fields it names change. */

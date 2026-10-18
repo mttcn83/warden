@@ -3,7 +3,7 @@ import { readFileSync } from 'node:fs';
 import { GuildConfig, defaultGuildConfig } from './config.js';
 // The CLI is plain JavaScript (no build step), so it has no type declarations.
 // @ts-ignore
-import { PRESETS, applyPresetTo } from '../../bin/presets.js';
+import { PRESETS, applyPresetTo, deepMerge } from '../../bin/presets.js';
 // @ts-ignore
 import { HELP } from '../../bin/commands.js';
 // @ts-ignore
@@ -146,5 +146,15 @@ describe('default look', () => {
     calls.length = 0;
     r = await applyLook(api(b => (b.username ? { applied: [], failed: { username: 'x' }, reasons: { username: 'rate' } } : { applied: [], failed: {} })), { guilds: [], avatar: false, banner: false, description: false, names: ['Warden', 'Warden-abcd'] });
     expect(calls).toHaveLength(1); expect(r.notes.join(' ')).toMatch(/twice an hour/);
+  });
+});
+
+describe('deepMerge', () => {
+  it('cannot be used to pollute Object.prototype', () => {
+    const patch = JSON.parse('{"__proto__":{"polluted":true},"constructor":{"prototype":{"polluted2":true}},"a":{"b":1}}');
+    deepMerge({}, patch);
+    expect(({} as Record<string, unknown>).polluted).toBeUndefined();
+    expect(({} as Record<string, unknown>).polluted2).toBeUndefined();
+    expect(deepMerge({ a: { c: 2 } }, { a: { b: 1 } })).toEqual({ a: { c: 2, b: 1 } });
   });
 });

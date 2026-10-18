@@ -13,6 +13,7 @@ import { learnerFor, saveLearners } from '../rules/learning.js';
 import { readFile, rm, stat } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { LOGIN_PAGE } from './page.js';
+import { makeRateLimiter } from './ratelimit.js';
 import { Routes } from 'discord.js';
 import { discordErrorKind, friendlyDiscordError, validateGlobal, validateMember, type GlobalProfileInput, type MemberProfileInput } from '../profile/validate.js';
 
@@ -93,8 +94,12 @@ export async function startGui(client: Client, store: Store, password: string, p
     } catch { return null; }
   };
 
+  // Every request is rate limited per client (generous for the panel itself, which polls), and sign-in link attempts are limited much harder.
+  const allowRequest = makeRateLimiter(900, 60_000), allowKeyTry = makeRateLimiter(10, 60_000);
   app.addHook('onRequest', async (req, reply) => {
+    if (!allowRequest(req.ip)) return reply.code(429).header('Retry-After', '60').send({ error: 'Too many requests, slow down.' });
     if (req.method === 'GET' && req.url.startsWith('/?key=')) {
+      if (!allowKeyTry(req.ip)) return reply.code(429).header('Retry-After', '60').send({ error: 'Too many sign-in attempts, wait a minute.' });
       const tok = await tryKeyLogin(decodeURIComponent(req.url.slice(6)));
       if (tok) return reply.header('Set-Cookie', `warden_session=${tok}; HttpOnly; SameSite=Strict; Path=/; Max-Age=${COOKIE_MAX_AGE}`).redirect('/');
     }
