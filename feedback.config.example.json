@@ -1,0 +1,4 @@
+{
+  "_comment": "Optional. Copy this file to feedback.config.json and paste a Discord webhook URL (Channel settings > Integrations > Webhooks > New Webhook > Copy Webhook URL) or an ntfy.sh topic URL to receive reports from the Send feedback button. feedback.config.json is not committed. You can also set WARDEN_FEEDBACK_URL instead. With neither, the button saves the note to a file on this computer.",
+  "webhook": ""
+}
