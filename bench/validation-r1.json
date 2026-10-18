@@ -1,0 +1,437 @@
+[
+ {
+  "text": "ez clap gg no re",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "skill issue lmao",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "git gud",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "bro just got diffed so hard 💀",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "my team is dogwater, 0 callouts all game",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "who's the guy that keeps feeding, report him",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "our jungler is literally inting rn, gg",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "that was the worst play i've ever seen, i'm actually ashamed lol",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "i'm gonna rage quit if this lags again",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "this lobby is full of bots holy",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "you're so cracked at this game it's unfair",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "ok i'm actually going to kill you in the next fight, watch",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "you died to a bot 💀 bro",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "how did you even lose that, were you afk",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "nah that's actually crazy you hit that shot",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "cope harder, we won fair and square haha",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "mald more lol",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "L + ratio + you're bad (jk gg)",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "stop camping you sweaty tryhard i'm jk lol",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "imagine losing to a level 5 account, couldn't be me 😂",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "the devs are clowns for nerfing this again",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "whoever made this matchmaking is braindead",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "this patch is complete garbage ngl",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "the hitboxes in this game are trash",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "ranked is pain, i hate it here",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "fuck it we ball",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "what the hell was that spawn",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "my ping is ass today",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "holy fuck did you see that",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "lmao this boss fight is bullshit",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "i'm so fucked if i don't get the loot",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "anyone down for duos? just need a chill person",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "add me, my tag is on my profile",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i'll send you the clip in dms",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "you can have my old skins, i quit the game",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "don't be toxic in vc please",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "he was spamming 'ez' and then got muted",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "they called him a noob for 10 minutes straight, so rude",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "there's a no toxicity rule here, read #rules",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "you're so bad at this lmao just uninstall the game already",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "lol you're literally the worst player on the team, quit",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you absolute donkey, how do you miss that",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "nobody wants you on the team, go play solo forever",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "you're a literal bot, delete the game",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "hope your pc explodes you scrub",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you should uninstall life too lmao",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "kys you trash teammate",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "go kill yourself noob",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'm going to find you irl and end you",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "imma swat you if you keep this up",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "send me your address and i'll show you what real pain is",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "shut your mouth, fucking idiot",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "fuck off you piece of garbage",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "suck my dick you loser",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "you're a fucking waste of a slot",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "what's wrong with you, are you actually retarded",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "such a gay take, kill yourself",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "go back to your country you clown",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "free vbucks generator no survey, link in bio: vbucks-free.top",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "claim your free steam wallet code here steamgift-claim.ru",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "hey buddy i can boost your rank, dm me and send 20$ first",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "this account got hacked, verify your discord at disc0rd-verify.com",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "his name is mark and he lives on elm street, go say hi",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "she's 15 and goes to roosevelt middle school, i have her number",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "my number is 415-555-0189 text me",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "my ip is 73.12.4.22 try to hack me lol",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "ur mom is so fat she crashed the server lol",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "braindead monkey, learn to play",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "literally everyone hates playing with you",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "you're the reason we lose every single game",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "ur so ass at this game it's embarrassing for you",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "pathetic. just pathetic. quit gaming",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "f u c k y o u",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you are such a d u m b a s s",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "k y s",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "fck u ur trash",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "u suck so bad, ur parents must regret having u",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "nobody asked you, idiot",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "ratio you fat loser",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "stfu and play the game moron",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "you play like a 5 year old with down syndrome",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "you're a joke, honestly",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "cry about it you baby",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "lol you cant even aim, delete the game worthless",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you'll never be good, give up",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "get a job you jobless loser",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "go outside and touch grass you neckbeard virgin",
+  "label": 1,
+  "tag": "insult"
+ }
+]

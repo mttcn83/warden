@@ -1,0 +1,577 @@
+[
+ {
+  "text": "this dress is killer, you're going to slay tonight",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "shut up and take my money, that keyboard is perfect",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i'm dead 💀 that meme broke me",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "that's sick bro, where did you get it",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "you're insane, in the best way, that was incredible",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "this is bs, they changed the rules mid-game",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "omfg i can't believe it, wtf",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "fml i left my phone on the bus",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "f in chat for my battery",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "stfu!!! you did not just meet him!!",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "go crazy, you deserve it",
+  "label": 0,
+  "tag": "plain",
+  "addr": true
+ },
+ {
+  "text": "she's a savage, took the whole team out alone",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "my cat is such a bitch sometimes, she knocked my coffee over lol",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "planting a few shrubs and need a good hoe, any recommendations?",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the female dog is called a bitch, that's the technical term, sorry",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "a donkey is also called an ass, it's in the bible",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the rooster is a cock, what else do you call it on a farm",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "my sister's pussycat is named whiskers",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "we watched Queer Eye last night and cried",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i'm gay and i'm proud, happy pride everyone 🏳️‍🌈",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the engine's retarded timing caused the knock, replace the cam",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "Ben Dover is a character in an old joke i won't repeat",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "my friend Fanny is visiting from London",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "willy wonka was creepy in the original",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "Randy and Rick Astley are in the same trivia team",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "Gaylord Perry was a famous baseball pitcher",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "he's a bastard in game of thrones but a fun one",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "ok boomer, you're right though, i'll update my phone",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "karen at the front desk was so nice to me today",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i told the guy to shut up and he said thank you, we're friends now",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "grandma said i'm a good boy and gave me cake",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i think i'm going to kill my houseplants again",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "don't kill the vibe lol",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "she literally killed that performance, ate and left no crumbs",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "rip my sleep schedule, i'm dying of tiredness",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the doctor said i might die of boredom waiting here",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "brb gotta drown my sorrows in ice cream",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "pls don't hate me but i think pineapple belongs on pizza",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "you're gonna hate me for this but the answer is C",
+  "label": 0,
+  "tag": "plain",
+  "addr": true
+ },
+ {
+  "text": "honestly i'm the villain in my own story 💀",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "i was an idiot to trust that guy, never again",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "i'm such a donkey, forgot the umbrella again",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "man i suck at this game, can someone carry me",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "you suck at breaking news lmao i already knew, but thanks for the effort",
+  "label": 0,
+  "tag": "edge",
+  "addr": true
+ },
+ {
+  "text": "they treated me like trash at that restaurant, never going back",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "the staff there were idiots, they lost our reservation",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "some clown cut in line at the cafe, i'm still mad",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "everyone in that meeting was a total jerk, i almost walked out",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "L + ratio + bozo + touch grass",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "seethe and cope, loser",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "no life neckbeard virgin, go outside",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "ok incel",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "basement dweller moment, lol, get a girlfriend",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you're such a pick me, it's honestly cringe",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "fatass",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "simp lol, bow down to her more",
+  "label": 1,
+  "tag": "edge"
+ },
+ {
+  "text": "ur dad left because of you",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "your mom's a hoe and your dad's a loser",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "your whole family is trash and so are you",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "ur ugly as hell and u know it",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "get hit by a bus, ugly",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "die in a hole",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "rot in hell you worthless freak",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "drop dead, i'm serious",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i hope your whole family dies in a fire",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "kys idiot 🤡",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "go shoot up your school lmao",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'm gonna bomb your house tonight",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'll slit your throat in your sleep",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "stay away from me or i swear i'll hurt you",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "i'm coming to your house with a knife",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "hope you get raped",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "that girl is a whore and everyone's had her",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "she's just a dumb slut",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "go make me a sandwich bitch",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "lmao the n word is totally fine here, you're all snowflakes",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "your people are the reason this country is going downhill",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "imagine being born with that face, i'd rather not exist than look like you",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "why are you still here, you've been told nobody likes you like ten times",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "just stop posting, it's embarrassing to read, i feel secondhand shame",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "wow you're stupid. like actually medically stupid. get checked",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "you're a clown and your opinions are as bad as your haircut",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "the stupidest thing i've read all day, and it came from you, of course",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "seriously, who raised you? absolutely no manners",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "you're one of 10 winners, enter your info here to receive your gift card: winners-claim.xyz",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "pls help, my little brother is sick, send btc to this wallet: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "hey i think you dropped this: gift-nitro.link/free",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "limited offer!! 5 free nitro boosts, react to this message then click the link",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "i'm a mod from this server, verify with me in dms or you'll be banned",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "exclusive airdrop for early members, connect your metamask at moonclaim.io",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "hiring discord moderators, $25/hr, apply by sending me your login",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "join my server for free robux: discord.gg/freerobux",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "her phone is 0412 345 678, message her lol",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "here's his dox: john doe, 32 elm street, boston, ma, 617-555-0100",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "my email is sarah.k.1999@hotmail.com and my number is 646 555 0132",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "passport number X12345678, please process it",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "my ssn is 219-09-9999",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "lol his house is at 14 cherry lane and his mom's name is linda",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "send your bank details to me and i'll deposit the refund",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "f.u.c.k. o.f.f",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "fuuck you",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "fucc u",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "go d!e",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "k y s",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you 𝗶𝗱𝗶𝗼𝘁",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "yoʋ ɑre ɑ moron",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "what a 🅿🅸🅴🅲🅴 of 💩",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "sh1t head",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "ur such a dum-ass",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "youre an idiiiiot",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "gtfo you loser",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "fck off",
+  "label": 1,
+  "tag": "directed"
+ }
+]

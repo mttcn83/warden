@@ -1,0 +1,522 @@
+[
+ {
+  "text": "you are an id10t",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "ur a st00pid moron",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "fuuuuck youuuu",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "phuck you",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "go fvcking die",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you b1tch",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "a**hole",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "what a d1ckhead you are",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "f_ck you loser",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "ffuucckk yyoouu",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "fUcK yOu",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you stupid piece of 💩",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "ur a clown 🤡 and a loser 🤡 uninstall",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "k.y.s now",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "kill ur self",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "go k1ll yourself",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "neck urself",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you're a ｃｕｎｔ",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "ᴜ ᴀʀᴇ ᴀ ɪᴅɪᴏᴛ",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you are a m.o.r.o.n",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "ur such an a-hole",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "s t f u",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "sh*t head",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you suck a$$",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "jerk off you creep, get lost",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "yo​u are an idi​ot",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you are a dumb ass loser",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "ur a fuckin retard",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "stupid nigg4",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "you f4ggot",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "U.S.A. is hosting the finals this year",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "e.g. you can use a lambda here",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "a.k.a. the best pizza place in town",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "i work in I.T. support, ask me anything",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "the password is hunter2 (just kidding it's not)",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "5*3 = 15 and 5**2 = 25",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "snake_case_variable_names are standard in python",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "use the glob **/*.ts to match everything",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "**IMPORTANT**: read the rules before posting",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "*sighs* ok i'll do it",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "__init__.py is missing from the package",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "grab a pass and a classic bassoon, class starts at 9",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "i love the Scunthorpe United badge, great history",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "a s s i s t a n t manager wanted",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "the arsenal game was a thriller",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "my cat's name is Pussy Willow, she's adorable",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "order the chicken breast and a cocktail",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "password reset links expire after an hour",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "the word 'moron' comes from greek, interesting",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "write a regex that bans 'idiot' and 'moron' from the form",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "def is_idiot(x): return x < 0  # naming is hard",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "```\nfuck_count = 0\nprint(fuck_count)\n```",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "https://example.com/fuck-this-bug-fix-notes",
+  "label": 0,
+  "tag": "looks-bad"
+ },
+ {
+  "text": "> you're an idiot\nthat's what he said to me, can a mod look",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "reported: user wrote 'kill yourself' in #general",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "someone in dms told me to kys, what do i do",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "mods: please ban whoever said the n-word earlier",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "he keeps calling me worthless, how do i handle this",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "she told me 'you're an embarrassment' and i'm still upset",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "i feel like i'm worthless and nobody cares about me",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "i wish i could just disappear",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "i hate everything today",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "my life is a joke honestly",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "i'm gonna kill myself if i fail this exam lol",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "FREE NITRO for the first 100 people: dlscord-gift.com/nitro",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "steam is giving out free csgo skins, redeem at steamcommunlty.com/skins",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "hey, i'm leaving the game, take my skins here: tradeoffer-steam.xyz/accept",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "you have won a $1000 amazon gift card, claim now at amzn-prize.top",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "your account is compromised, log in here to secure it: discord-secure.help/login",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "i'm doing a giveaway of 5 nitro classic, join via this link",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "make $5000 a week trading crypto with me, guaranteed, dm",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "send me 0.1 eth and i'll send back 0.2 eth, trusted",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "wanna earn quick cash? message me for details",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "check out my profile for 18+ content, link in bio",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "discord moderator here, your server is being deleted, click this link to appeal",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "get free robux, no human verification: robuxfree.fun",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "his name is john smith, he lives at 12 willow street and drives a blue honda",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "i found her instagram and her home address, posting it now",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "everyone, this guy's real name is derek and he works at the burger place on main st",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "leaking his ip: 73.45.121.9",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "her number is (555) 234-9981, spam her",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "my ssn is 078-05-1120 if you need it",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "api key: sk-live-4eC39HqLyjWDarjtT1zdp7dc",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "here is my password: hunter2hunter2",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "my home address is 88 river road, springfield",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "add me on snap, i'm 13 and live in ohio",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "mine is 12th st and 4th ave, near the station",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the shop is at 120 main street, open till 9",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "i live in ohio and my timezone is est",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "my favorite number is 555-1234, i win lotteries with it lol",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "hijo de puta",
+  "label": 1,
+  "tag": "intl"
+ },
+ {
+  "text": "eres un pendejo",
+  "label": 1,
+  "tag": "intl"
+ },
+ {
+  "text": "cállate gilipollas",
+  "label": 1,
+  "tag": "intl"
+ },
+ {
+  "text": "du arschloch, halt die klappe",
+  "label": 1,
+  "tag": "intl"
+ },
+ {
+  "text": "espèce de connard",
+  "label": 1,
+  "tag": "intl"
+ },
+ {
+  "text": "filho da puta, vai se foder",
+  "label": 1,
+  "tag": "intl"
+ },
+ {
+  "text": "ты идиот",
+  "label": 1,
+  "tag": "intl"
+ },
+ {
+  "text": "sen aptalsın orospu çocuğu",
+  "label": 1,
+  "tag": "intl"
+ },
+ {
+  "text": "que pasa mi amigo, todo bien",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "c'est une bonne idée, merci beaucoup",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "ich habe heute keine zeit, tut mir leid",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "vamos a la playa mañana, ¿quieres venir?",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "la computadora está rota otra vez",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "o professor é muito legal, adoro as aulas dele",
+  "label": 0,
+  "tag": "intl"
+ }
+]

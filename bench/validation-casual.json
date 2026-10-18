@@ -1,0 +1,2047 @@
+[
+ {
+  "text": "do you want to hang over after school? my parents are out",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "yo can i hang with you guys tonight",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "im so hungover rn do not talk to me",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "hangover is actually killing me, why did i drink that much lol",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "come over at 8, i'll order pizza",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "pull up to my place after work, door's unlocked",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "im outside, come open the door lol",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "im outside your door bro hurry up its cold",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "i'm coming to your house tomorrow, make sure you have snacks",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "can i crash at your place saturday? my roommate's having people over",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "we should all go to the beach this weekend, who's in",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "movie night at mine friday, bring blankets",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "anyone wanna get food? i'm starving",
+  "label": 0,
+  "tag": "hangout"
+ },
+ {
+  "text": "bro i'm literally starving, been coding for 6 hours straight",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "what are you guys eating for dinner",
+  "label": 0,
+  "tag": "food"
+ },
+ {
+  "text": "i made ramen at 2am and it was the best thing ever",
+  "label": 0,
+  "tag": "food"
+ },
+ {
+  "text": "pineapple on pizza is fine and i will not be taking questions",
+  "label": 0,
+  "tag": "food"
+ },
+ {
+  "text": "this burger is so good i'm gonna cry",
+  "label": 0,
+  "tag": "food"
+ },
+ {
+  "text": "coffee or tea? i can't function without caffeine",
+  "label": 0,
+  "tag": "food"
+ },
+ {
+  "text": "my mom's cooking is so good, you guys would love it",
+  "label": 0,
+  "tag": "food"
+ },
+ {
+  "text": "just got home, today was exhausting",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "morning everyone, who's up",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "goodnight guys, gotta sleep, school tomorrow",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "brb gotta pee",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "back, what did i miss",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "lol same",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "fr fr",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "no way that actually happened 😭😭",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "bruh i can't believe it",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "wait what happened to the stream",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "someone tell me what's going on i just woke up",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "ok but why is everyone awake at 4am",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "i have an exam in 3 hours and i haven't studied, i'm so cooked",
+  "label": 0,
+  "tag": "school"
+ },
+ {
+  "text": "my teacher gave us 50 pages to read over the weekend, what a nightmare",
+  "label": 0,
+  "tag": "school"
+ },
+ {
+  "text": "group projects are the worst, nobody ever does their part",
+  "label": 0,
+  "tag": "school"
+ },
+ {
+  "text": "finally finished my essay, it's 3am and i don't even care anymore",
+  "label": 0,
+  "tag": "school"
+ },
+ {
+  "text": "anyone got notes from yesterday's lecture?",
+  "label": 0,
+  "tag": "school"
+ },
+ {
+  "text": "i think i'm failing math, send help",
+  "label": 0,
+  "tag": "school"
+ },
+ {
+  "text": "study session tomorrow at the library at 5?",
+  "label": 0,
+  "tag": "school"
+ },
+ {
+  "text": "i got a 92 on the test!! let's gooooo",
+  "label": 0,
+  "tag": "school"
+ },
+ {
+  "text": "my boss just called me at 10pm, i hate it here",
+  "label": 0,
+  "tag": "work"
+ },
+ {
+  "text": "work was brutal today, i'm so tired",
+  "label": 0,
+  "tag": "work"
+ },
+ {
+  "text": "monday again, why does this keep happening",
+  "label": 0,
+  "tag": "work"
+ },
+ {
+  "text": "just got paid and rent already took it all lol",
+  "label": 0,
+  "tag": "work"
+ },
+ {
+  "text": "got the job!!! i start next week",
+  "label": 0,
+  "tag": "work"
+ },
+ {
+  "text": "interview tomorrow, wish me luck guys",
+  "label": 0,
+  "tag": "work"
+ },
+ {
+  "text": "it's 2 hours away so we should leave at 5",
+  "label": 0,
+  "tag": "plans"
+ },
+ {
+  "text": "the party starts at 9, we're meeting at the park first",
+  "label": 0,
+  "tag": "plans"
+ },
+ {
+  "text": "i'll be there in 10 min, don't leave without me",
+  "label": 0,
+  "tag": "plans"
+ },
+ {
+  "text": "running 15 min late sorry!!",
+  "label": 0,
+  "tag": "plans"
+ },
+ {
+  "text": "flight lands at 7:30, can someone pick me up",
+  "label": 0,
+  "tag": "plans"
+ },
+ {
+  "text": "it's a 3 hour drive so i'm leaving early",
+  "label": 0,
+  "tag": "plans"
+ },
+ {
+  "text": "the concert is on the 14th, who's got tickets",
+  "label": 0,
+  "tag": "plans"
+ },
+ {
+  "text": "is anyone free sunday? thinking about a bbq",
+  "label": 0,
+  "tag": "plans"
+ },
+ {
+  "text": "lets do 6pm, works for everyone?",
+  "label": 0,
+  "tag": "plans"
+ },
+ {
+  "text": "what time is the game tonight",
+  "label": 0,
+  "tag": "plans"
+ },
+ {
+  "text": "i'll send you the playlist later, it's all bangers",
+  "label": 0,
+  "tag": "music"
+ },
+ {
+  "text": "this song is stuck in my head and it's driving me insane",
+  "label": 0,
+  "tag": "music"
+ },
+ {
+  "text": "who's going to the festival this summer",
+  "label": 0,
+  "tag": "music"
+ },
+ {
+  "text": "that album is a masterpiece, listen to the whole thing",
+  "label": 0,
+  "tag": "music"
+ },
+ {
+  "text": "my cat just walked across my keyboard and sent a message lol",
+  "label": 0,
+  "tag": "pets"
+ },
+ {
+  "text": "my dog is the cutest, look at this face",
+  "label": 0,
+  "tag": "pets"
+ },
+ {
+  "text": "our puppy chewed up my shoes again, what a menace",
+  "label": 0,
+  "tag": "pets"
+ },
+ {
+  "text": "the cat knocked my coffee over and looked right at me while doing it",
+  "label": 0,
+  "tag": "pets"
+ },
+ {
+  "text": "i'm so bored there's nothing to do",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "rainy day = movie day",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "it's so hot today i'm melting",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "snow day!!! no school!!!",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "just saw the new trailer and i'm so hyped",
+  "label": 0,
+  "tag": "media"
+ },
+ {
+  "text": "that show is so good i binged the whole season",
+  "label": 0,
+  "tag": "media"
+ },
+ {
+  "text": "no spoilers please i'm only on episode 3",
+  "label": 0,
+  "tag": "media"
+ },
+ {
+  "text": "the ending of that movie made me cry like a baby",
+  "label": 0,
+  "tag": "media"
+ },
+ {
+  "text": "what are we watching tonight",
+  "label": 0,
+  "tag": "media"
+ },
+ {
+  "text": "just finished the book and i have so many feelings",
+  "label": 0,
+  "tag": "media"
+ },
+ {
+  "text": "my phone is at 2% and the charger is across the room, this is my villain origin story",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "i dropped my phone in the toilet, please pray for me",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "my wifi is trash today, sorry if i lag",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "the wifi here is so slow i could cry",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "i'm going to sleep for 12 hours and nobody can stop me",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "who wants to call? i'm lonely",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "can someone help me with my math homework? it's due at midnight",
+  "label": 0,
+  "tag": "school"
+ },
+ {
+  "text": "how do i get my bot to join voice? asking for a friend",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "my code works and i have no idea why",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "have you tried turning it off and on again",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "installing updates for 3 hours, this is peak entertainment",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "i have 2 min to submit this, pray for me",
+  "label": 0,
+  "tag": "school"
+ },
+ {
+  "text": "the group chat is dead, say something",
+  "label": 0,
+  "tag": "chat"
+ },
+ {
+  "text": "holy shit that was insane",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "bro what the fuck was that",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "fuck yeah we won!!",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "this is so fucking good",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "i'm so fucking tired",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "shit i forgot my keys",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "oh shit it's already 3am",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "fuck, my battery died",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "damn that's crazy",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "damn it i missed the bus",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "what the hell is this error",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "this is bullshit, the servers are down again",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "no shit sherlock",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "shut the front door, you got in??",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "ass of a day honestly, nothing went right",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "this game is so fucking hard",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "fuck this level, i'm done",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "bro the lag is fucking unreal",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "what a shitty patch, they broke everything",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "i'm so over this shit",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "holy fuck did you see that clip",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "that was some bullshit ngl",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "fucking finally, the update is out",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "goddamn that was close",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "jesus christ i almost died on that jump",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "this shit slaps",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "the pizza was fucking amazing",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "lol wtf is happening",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "omfg i can't",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "what the fuck did i just watch",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "i'm so fucked for this exam",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "we're so fucked if they push mid",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "that boss is a bitch, took me 40 tries",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "this map is such a shithole honestly",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "who the fuck designed this level",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "gg ez no re",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "nice shot!! that was disgusting",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "you're cracked at this game bro",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "you carried that whole round, absolute legend",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "i'm gonna rage quit if i die one more time",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "i'll kill you in smash tonight, bring it",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "i'm gonna destroy you in 1v1 no cap",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "stop camping you sweaty tryhard lol",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "nuke their base, it's the only way",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "we got absolutely wrecked in that scrim",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "my aim is so bad today, i'm embarrassing myself",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "clutch or kick, let's go",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "who's down for ranked? don't be trash this time",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "sniping from across the map, they never saw me",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "shoot first ask questions later in this game",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "headshot!! sit down lol",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "bro just got diffed so hard he left the lobby",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "that last boss kills me every time, i'm so mad",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "we stole the loot and ran, it was perfect",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "the new weapon is broken, it one shots everything",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "don't trust anyone in this lobby, they'll backstab you",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "i just got stabbed in the back by my own teammate lmao",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "he baited me and i fell for it, i'm an idiot",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "my team is so bad i'm actually carrying with 0 support",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "these bots are cracked, how do you even play against that",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "i'll carry you, just stay alive",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "gg wp, rematch?",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "the dev who made this hitbox needs to be fired",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "ping is 300 what the actual hell",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "we lost because of that one guy, not naming names lol",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "every time i touch this game it ruins my day",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "i swear this game is rigged",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "grinding all night for this one skin, send help",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "the grind is real, level 80 at last",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "rip my k/d, it was good while it lasted",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "he killed me with a pan, a literal pan 💀",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "imagine losing to a bot, couldn't be me",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "trash talk is part of the game but keep it friendly",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "whoever invented fall damage deserves a medal and a lawsuit",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "this lobby has more bots than people",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "my squad is cracked tonight",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "rage quitting in 3, 2, 1",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "can someone revive me please, i'm dying here",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "i'm getting hunted by a stalker and i have no ammo, i'm dead",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "i'm going to murder this boss, mark my words",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "the raid starts in 10, everyone get in vc",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "who's raiding with us tonight",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "attack the left flank, i'll cover you",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "drop in at the airport, they won't see it coming",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "i got a 25 killstreak and then died to fall damage",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "he sniped me from across the whole map, respect",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "don't shoot, i'm on your team!!",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "lmaooo you died to the tutorial boss",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "what a clutch, absolutely insane play",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "you absolute legend, that was filthy",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "holy crap that jump was insane",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "jeez, that's a lot of damage",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "freaking heck this level is hard",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "shit's about to go down in this match",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "it's giving shit show energy",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "no fucking way you did that",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "this shit is so funny i can't",
+  "label": 0,
+  "tag": "swear"
+ },
+ {
+  "text": "i'm gonna kill you for spoiling the ending",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "i will literally murder you if you tell her",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "you're dead to me for taking the last slice",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "bro you're so dead when mom finds out lol",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "i'm dying 😂😂 that's so funny",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "i'm dead 💀💀 stop",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "this homework is killing me",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "this heat is going to kill me",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "i could kill for a taco right now",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "kill me now, it's only tuesday",
+  "label": 0,
+  "tag": "darkhumor"
+ },
+ {
+  "text": "end me, this class is so boring",
+  "label": 0,
+  "tag": "darkhumor"
+ },
+ {
+  "text": "i want to die, my feet hurt so bad",
+  "label": 0,
+  "tag": "darkhumor"
+ },
+ {
+  "text": "kms lol i forgot my password again",
+  "label": 0,
+  "tag": "darkhumor"
+ },
+ {
+  "text": "unalive me, another meeting that could've been an email",
+  "label": 0,
+  "tag": "darkhumor"
+ },
+ {
+  "text": "i'm gonna jump off a bridge if this wifi doesn't fix itself lmao",
+  "label": 0,
+  "tag": "darkhumor"
+ },
+ {
+  "text": "if i see one more spreadsheet i'm going to lose it",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "i'm going to scream into a pillow",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "please someone put me out of my misery, it's finals week",
+  "label": 0,
+  "tag": "darkhumor"
+ },
+ {
+  "text": "this song is so bad it hurts",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "my cat tried to murder me this morning, tripped me on the stairs",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "my brother is going to kill me, i borrowed his car",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "my mom is going to murder me if i'm late",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "i'm going to strangle my roommate if she plays that song again 😤",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "i swear i'll end you if you eat my leftovers",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "my sister is so annoying i could scream",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "i'll beat you at mario kart no problem",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "i'm going to destroy this cake in 5 minutes",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "i'm gonna bomb this test, i know it",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "that presentation killed, we nailed it",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "i slayed that interview",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "my legs are dead after leg day",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "my phone is dead, i'll text from my laptop",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "i'm so hungry i could eat a horse",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "he's going to freak when he sees this",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "get out of my head, this song won't leave",
+  "label": 0,
+  "tag": "hyperbole"
+ },
+ {
+  "text": "go to sleep dude it's 5am",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "shut up i love that",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "shut up no way!!",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "stfu that's so cool",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "stop it you're making me blush",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you're killing me with these memes 😭",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "get out of here with that, that's so good",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "i hate you (affectionately) for making me laugh at 3am",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "i hate how good this song is",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "i hate mondays so much",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "i hate it here lol",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "ugh i hate my hair today",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "ok i hate you, how are you this good at everything",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "go to hell you absolute legend, that was perfect",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you're gonna be the death of me with these jokes",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "this is going to be a bloodbath, wish me luck",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "the exam was a massacre, half the class failed",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "i'm going to bury myself in work this week",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "the boss fight was brutal, i got crushed",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "we're going to attack this project head on",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "let's blow this popsicle stand and get food",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "the bomb dot com was my favorite phrase in 2002",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "that's the bomb, thanks for the gift!",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "fireworks are going to blow up the sky tonight",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "hit me up when you're free",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "i'll hit you with the link in a sec",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "pop off queen, you ate that",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "i'm going to shoot my shot and ask her out",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "take a shot every time he says 'literally'",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "shots fired lmao",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "i need to shoot a video for class tomorrow",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "the photographer is going to shoot us at sunset",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "the hunter shot a deer in the documentary, it was sad",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "he got fired for stealing, that's some drama",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "they executed the plan flawlessly",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "the assassin in this show is such a good character",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "i watched a true crime documentary about a serial killer last night, i can't sleep",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "the news said there was a stabbing downtown, stay safe guys",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "that movie had so much gore, i had to look away",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "my grandma passed away last week, still processing",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "i've been really depressed lately, thanks for listening",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "i'm having a rough day, can someone chat with me",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "my friend is going through a lot, how do i support her",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "sorry for venting, thanks for being here",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "do you ever just feel like disappearing for a weekend?",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "dude your cat is so cute i can't handle it",
+  "label": 0,
+  "tag": "tricky"
+ },
+ {
+  "text": "sup nerds",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "hey bitch what's up, miss you",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you dumbass i love you, get over here",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "lmaooo you idiot, you left your mic on",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you're such a goofball lol",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "ur such a dork, i love it",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "omg you menace, you ate all my fries 😭",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you gremlin, stop eating my snacks",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "get your ass over here, we're starting",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "sit your ass down, the movie's starting",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "move your ass, we're gonna be late",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "kiss my ass, i won fair and square haha",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you little shit, you remembered my birthday 🥹",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you're a fucking legend, thank you so much",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you absolute madman, you actually did it",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "fuck you for making me cry with that story (i love it)",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "aww you bastard, that's the nicest thing anyone's said to me",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "lmao you piece of work, only you would do that",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you sneaky little shit, i didn't see that coming haha",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you're so dumb, how do you even tie your shoes",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "nobody invited you for a reason, loser",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "shut up, you're not funny and everyone knows it",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "you're an idiot and you always will be",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "go away, no one wants you here",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "you're pathetic, stop trying so hard",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "you ruined the whole game for everyone, thanks idiot",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "you literally can't do anything right, can you",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "what a waste of space you are",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "stfu you worthless piece of shit",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "fuck off nobody asked you",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "go fuck yourself, i'm done with you",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "you suck so bad, quit the team",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "nobody asked",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "nobody asked for your opinion lol",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "you're such a try hard, relax",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "ur trash at this game, uninstall",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "you are the most useless admin i've ever seen",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "what a cringe take",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "get a life bro",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "touch grass seriously",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "cope harder, we won",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "you play like a bot, no offense",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "ok boomer",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "that's the dumbest idea i've ever heard, why would you do that",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "this server is trash",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "the new mod is useless, they never do anything",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "you're so bad at this lmao",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "lmao you got destroyed, skill issue",
+  "label": 0,
+  "tag": "rude"
+ },
+ {
+  "text": "ur so annoying rn but whatever, love you",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you're such a pain in my ass lol",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you absolute dumbass, why did you push mid",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "dude you're an idiot, you left the stove on again haha",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you can be so stupid sometimes but i love you anyway",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you're ugly lol jk you look fine",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "your music taste is trash and i love it",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you suck at cooking but i'll eat it anyway",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you snore like a chainsaw, no joke",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you're late again, typical",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "what a loser, you forgot the tickets 😂 love you though",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "lmaoooo you're so bad at this, i'm crying",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you silly goose, that's not how it works",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you fool, it was a joke",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "i swear you're the dumbest smartest person i know",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "only an idiot would do that, so naturally it was you 😂",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "you're a clown, i love you",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "bro you're so stupid lmao that was hilarious",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "ur actually insane (positive)",
+  "label": 0,
+  "tag": "friend"
+ },
+ {
+  "text": "kys",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "kys loser",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "go kill yourself",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "i hope you die",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "you should just disappear, nobody would miss you",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "everyone hates you, just leave the server",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "you're ugly and fat and nobody likes you",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "ur mom is a whore",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "what a stupid bitch",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "fucking retard",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "you gay fag",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "shut up you dumb nigger",
+  "label": 1,
+  "tag": "mean"
+ },
+ {
+  "text": "my address is 42 maple street, come over whenever",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "i live at 17 oak avenue, apartment 3b",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "come to 221 pine road, i'll be home at 8",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "the party is at 88 sunset boulevard, don't be late",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "we're meeting at 12 harbor lane, bring snacks",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "ship it to 9 birch court, springfield",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "my house is 305 elm street, the blue one",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "send the pizza to 14 cedar drive please",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "his address is 22 willow lane, go say hi",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "she lives at 77 river road, near the gas station",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "i found where he lives: 31 grove street",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "her real name is amanda reyes and she goes to jefferson high",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "his full name is kyle jensen, here's his insta and his phone number",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "this guy works at the burger place on 5th, go bother him",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "i have her number and her address, want them?",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "someone should swat him, i know where he lives",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "what's your address? i'll come pick you up",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "send me your address and i'll mail you the game",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "post your snap and your number here",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "everyone dm her mom, here's her number",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "his ip is 73.44.12.9, have fun",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "my number is 415-555-0177 text me",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "call me on 212 555 0142 if you want to buy it",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "whatsapp me +44 7700 900456",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "my email is jake.miller2003@gmail.com dm me there",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "his number is (303) 555-0199 spam him",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "my ssn is 456-12-7890 lol jk (not jk)",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "here's my card number 5555 5555 5555 4444 exp 04/29",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "my discord token is <<token-a>>",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "i'm coming to your house tonight, you can't stop me",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i know where you live and i'm coming for you",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'm going to hurt you after school tomorrow",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "watch your back, i know where your mom works",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "say that again and i'll find you irl",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'll put you in the hospital",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "you won't see me coming, sleep with one eye open",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'm outside your house right now, come out",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'm going to follow you home and you'll regret it",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "your family is going to pay for this",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'll raid this server with 100 alts tonight",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "my botnet is going to take this server down",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "free nitro for everyone: discord-nitro-gift.com/claim",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "steam is giving away free games, log in at steam-free-games.ru",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "claim your robux at robux-free-gen.net, no verification",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "dm me for cheap vbucks, 10$ for 10k",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "send me your login and i'll level up your account",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "click here to see who viewed your profile: viewers-discord.com",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "invest 100$ and get 1000$ back in 24 hours, dm me",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "free gift cards: amazon-giftcards-free.top",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "join my server for free nitro: discord.gg/freenitro123",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "hey i'm a mod, verify your account here: discord-verify-mod.com",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "it's a 3 hour drive from my place to the coast, we should go",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "the party's at my place, dm me and i'll tell you how to get there",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "i'll send the address in a private message later",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "what's the plan for saturday?",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "bring 20 bucks and your id, they check at the door",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "tracking number 1Z999AA10123456784, it should arrive thursday",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "the meeting id is 123 456 7890 and the passcode is 1234",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "my birthday is the 14th, don't forget lol",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "i'm 17 and live in canada, nice to meet everyone",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "the cafe on 5th avenue has great coffee, we should go",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "meet me by the fountain downtown at noon",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "it's the second house on the left, you can't miss it",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "my phone number is private, dm me and i'll send it",
+  "label": 0,
+  "tag": "ok"
+ },
+ {
+  "text": "do you have a good email for this? i'll dm you my work one",
+  "label": 0,
+  "tag": "ok"
+ }
+]

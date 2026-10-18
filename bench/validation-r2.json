@@ -1,0 +1,627 @@
+[
+ {
+  "text": "bro what 😭😭 i cannot with you",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "ur literally so annoying rn but i love you",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "you're such a dork lol i can't",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "stop you're making me blush",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "omg you're a genius, thank you!!",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "you absolute menace, you ate all the fries",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "lmao you're insane, who does that",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "ur so dramatic it's actually funny",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "shut up you did NOT get tickets!! omg",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "ok but you look amazing in that pic",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "dude you are the best i owe you one",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "you fool, that was the wrong link 😂 here",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "ur the worst 😭 you spoiled the ending",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "i can't believe you did that, you maniac, i love it",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "go to bed idiot (affectionate) you have school tomorrow",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "my teacher is such a hater, gave me a C for nothing",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "my manager is a total jerk, she made me stay till midnight",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "my roommate is so gross, there's mold in the sink",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "some guy at the gym was being a real asshole about the squat rack",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "our landlord is a scumbag, raised the rent again",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "i hate my job so much i could scream",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i'm so done with this class i want to cry",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "sometimes i just want to disappear for a week and sleep",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i failed my driving test again, i feel like a total failure",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "i'm such a loser, i ate the whole cake alone",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "i hate myself for forgetting her birthday ugh",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "ugh my brain is so dead today, i'm useless before coffee",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "honestly i'm the dumbest person i know sometimes",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "that movie was so bad it was good, 10/10 would hate again",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "that's the stupidest rule i've ever heard",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "what a dumb question, but honestly a good one",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "that's a pretty idiotic way to design a menu",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "the new logo is hideous",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "anyone else think the ending was trash?",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "I think vegans are wrong about this but whatever",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "tbh both parties are corrupt, vote anyway",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "that is a terrible take and here's why",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "i disagree, and i think you're wrong about the stats",
+  "label": 0,
+  "tag": "opinion",
+  "addr": true
+ },
+ {
+  "text": "sorry but that's just not true, check the source",
+  "label": 0,
+  "tag": "opinion",
+  "addr": true
+ },
+ {
+  "text": "fuck, i left my charger at home",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "this fucking traffic, i'm going to be late",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "what the shit is this error message",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "damn it, the wifi dropped again",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "holy hell it's cold outside",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "i'm so freaking excited for the concert",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "oh my god i can't stand how cute this puppy is",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "it's raining cats and dogs lol",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "killing it at work today, got promoted!",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "that presentation destroyed me, i'm dead",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "she slayed that performance, i'm crying",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "please don't hurt the hamster, he's shy",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i'm gonna beat my high score tonight",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "let's shoot some hoops after school",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "he got shot in the knee at the end of the movie, so dark",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the teacher said 'you're all idiots' and walked out, wild",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "my dad always told me i was worthless, been working on that in therapy",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "she called me a loser in 5th grade and i still remember",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "the lyrics say 'i hate you so much' but it's about a cat",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "i saw a comment that said 'kill yourself' and reported it",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "meet me at 6 at the station, my number is in my bio",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "my email is private, dm me if you need it",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the address is on the invite, scroll up",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "you are all idiots, haha just kidding i love this server",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "you're all clowns and i'm the ringmaster 🤡 love you guys",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "nobody asked but here's my hot take on pineapple pizza",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the problem with this code is you're not closing the file handle",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "you're the reason my tests pass, thank you for the fix",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "you should quit the meeting if it's not relevant to you",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "you should delete the old branch and push again",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "you're so bad at hiding gifts, i already know what it is lol",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "nobody in this chat actually likes you, we just tolerate you",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "you're not funny, you're just annoying and everyone knows it",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "what a boring, pathetic life you must have",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "you have no friends and it shows",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "you're just a lonely loser hiding behind a screen",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "everything you say is stupid, please stop talking",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you're too dumb to understand, forget it",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you look like a troll and act like one, get out",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "people like you make this server worse",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "please go away, nobody wants you around",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "you're so cringe it hurts to watch",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you're pathetic and you know it",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "wow, you actually are as stupid as you look",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "keep talking, idiot, it only makes you look dumber",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you're an embarrassment to this community",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "what a waste of space you are",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "fuck you and your stupid opinions",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "shut up you dumb fuck",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "go to hell you piece of trash",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "you're a bitch and everyone hates you",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you ugly ass clown nobody likes you",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "i hope something terrible happens to you",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "someone should teach you a lesson, i know where you live",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "watch your back, i'm coming for you",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "you won't see me coming, sleep with one eye open",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'll make you regret every word you said",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "go hang yourself",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "do the world a favor and delete yourself",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "end your life already, nobody would care",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "her name is sarah miller, she lives at 33 pine road and works at the cafe on 5th",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "everyone dm him at 212-555-0147 and tell him he's trash",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "here's her full address and school, have fun",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "my debit card is 5500 0000 0000 0004 exp 12/27 cvv 123",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "my phone is 07911 123456 call me",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "verify your discord account to avoid a ban: discord-verifyy.com/auth",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "congrats! you've been selected for a free ps5, click the link to claim",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "earn $500 a day working from home, dm me to start",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "i'm an admin from discord support, send me your password to restore your account",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "hot singles in your area, click here",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "you're a f@ggot lol",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "ur such a tr@nny",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "w3tb4ck go home",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "all muslims are terrorists",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "women belong in the kitchen, shut up",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "those people are animals and should be locked up",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "ur a n!gger",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "you're retarded, learn to read",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "so autistic, you r a freak",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "f u c k o f f",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "shut the f*ck up",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "go d1e in a fire",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you are a sh1thead",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "ur a b i t c h",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "yoú äre â mörøn",
+  "label": 1,
+  "tag": "evasion"
+ }
+]

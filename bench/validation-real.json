@@ -1,0 +1,992 @@
+[
+ {
+  "text": "you are a complete idiot",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "shut up you moron",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "what a stupid take, are you braindead",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "you're so dumb it hurts",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "nobody likes you, go away",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "you're pathetic and everyone knows it",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "wow you really are the dumbest person in this server",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "you absolute clown, log off",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "get a life you loser",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "you're a joke",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "you're trash at everything you do",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "ur a waste of oxygen",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "you disgust me",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "what is wrong with you, you freak",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "imagine being as annoying as you are",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "you are the worst person here",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "you're worthless",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "everyone here hates you",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "go cry about it, loser",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "you have no friends and it shows",
+  "label": 1,
+  "tag": "direct"
+ },
+ {
+  "text": "uninstall the game you bot",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "you're hard stuck bronze for a reason, trash",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "my team is full of dogwater players, you especially",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "report this guy he's a useless noob",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "you couldn't hit the broad side of a barn, absolute potato",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "gg ez trash",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "how are you this bad, seriously delete the game",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "bot diff, go back to tutorial",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "you're the reason we lost, idiot",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "stop feeding you braindead monkey",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "you play like a toddler with no hands",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "git gud scrub, you're embarrassing",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "carried by your team and still talking? sit down loser",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "low iq play, kys in game next time",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "you've got the aim of a blind grandma, bot",
+  "label": 1,
+  "tag": "gaming"
+ },
+ {
+  "text": "please be so kind as to go jump off a cliff",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "kindly shut your stupid mouth, thank you",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "with all due respect, you are an idiot",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "gently speaking, you are a complete waste of space",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "i hope you have a lovely day, you worthless piece of garbage",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "sweetie, nobody wants you here, please leave",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "dear friend, you are the dumbest person i've ever met",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "no offense but you're a pathetic loser",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "i say this with love: you are a disgusting human being",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "just a friendly reminder that you are useless",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "kindly go die in a hole",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "respectfully, you are a moron",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "politely asking you to disappear forever, nobody would miss you",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "bless your heart, you really are too stupid to understand",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "please do us all a favor and delete your account, you're annoying garbage",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "gently, you smell like a dumpster and act like one",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "thank you for your input, now please shut up you idiot",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "hope you trip on the stairs and break your neck",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "have a nice day, loser",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "it would be lovely if you'd kindly kill yourself",
+  "label": 1,
+  "tag": "polite"
+ },
+ {
+  "text": "i will find you and hurt you",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i know where you live, watch your back",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "you'll regret this, i'm coming for you",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'm going to beat the crap out of you",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "next time i see you i'm breaking your legs",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "your family will pay for this",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i hope your house burns down",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'll make your life hell until you leave",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "somebody should shoot you",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'm going to stab you in your sleep",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "keep talking and i'll show up at your school",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'm gonna ruin you, everyone will know who you are",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "you better sleep with one eye open",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "you should just kill yourself already",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "go hang yourself",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "do the world a favour and end it",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'll be waiting outside your work tomorrow",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "watch what happens to your dog",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'll hurt everyone you love",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "pray i never meet you in real life",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "you have the personality of a wet napkin and the brain to match",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "if stupidity was a sport you'd be world champion",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "the village called, they want their idiot back",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "you're the human equivalent of a participation trophy",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "your parents must be so disappointed",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "i've seen smarter people at a gas station asking where the toilet is",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "you're not even worth the effort of insulting",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "you are as useful as a screen door on a submarine, which is to say not at all, idiot",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "somewhere out there a tree is working hard to replace the oxygen you waste",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "you're what happens when the gene pool has no lifeguard",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "every time you talk, the iq of the whole server drops",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "your face looks like it lost a fight with a lawnmower",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "fat ugly loser, nobody would date you",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "you're so ugly your mirror files complaints",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "genuinely the most braindead thing i've read today, you muppet",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "did your brain take the day off or are you always this slow",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "ur mom should have kept the other twin",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "you're a clown wearing a clown mask, spare us",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "go touch grass you virgin loser",
+  "label": 1,
+  "tag": "creative"
+ },
+ {
+  "text": "fuck you",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "fuck off you piece of shit",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "you stupid bitch",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "shut the fuck up asshole",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "go to hell you dickhead",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "what the fuck is wrong with you, you retard",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "suck my dick loser",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "you're a fucking idiot",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "eat shit and die",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "you dumb cunt",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "fuck you and your whole family",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "you're a worthless piece of shit",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "screw you you jackass",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "what a douchebag, shut up",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "piss off you wanker",
+  "label": 1,
+  "tag": "swear"
+ },
+ {
+  "text": "all of you from that country are subhuman filth",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "people like you shouldn't be allowed to breathe",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "your religion is a disease and so are you",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "women are too stupid to play this game, get back in the kitchen",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "you people are all vermin",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "i hate everyone who looks like you",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "go back to where you came from you parasite",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "your kind ruins everything",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "his name is Daniel Kowalski and he lives at 42 Pine Road",
+  "label": 1,
+  "tag": "dox"
+ },
+ {
+  "text": "here is her phone number 555-867-5309, everybody call her",
+  "label": 1,
+  "tag": "dox"
+ },
+ {
+  "text": "i found his address, 9 Willow Lane, go pay him a visit",
+  "label": 1,
+  "tag": "dox"
+ },
+ {
+  "text": "her full name is Sarah Mitchell and she works at the dentist on 5th, spam her",
+  "label": 1,
+  "tag": "dox"
+ },
+ {
+  "text": "post his home address everyone, 118 Birch Avenue",
+  "label": 1,
+  "tag": "dox"
+ },
+ {
+  "text": "his instagram is @jake_the_snake and his mom's number is 555 014 2231",
+  "label": 1,
+  "tag": "dox"
+ },
+ {
+  "text": "address of the mod: 77 Elm Street apartment 3b",
+  "label": 1,
+  "tag": "dox"
+ },
+ {
+  "text": "free nitro for everyone, claim here discord-nitro-gift.xyz/claim",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "congrats you won a $500 gift card, verify your account at steam-prize.example/login",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "send me your password to get the free skin",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "i can double your bitcoin in 24 hours, just dm me your wallet",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "click this link to unlock your account before it's banned: discorrd-support.example/verify",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "earn $5000 a week from home guaranteed, message me on telegram",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "you're an absolute legend, thank you!",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "that exam killed me, i'm so tired",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "i could kill for a pizza right now",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "this boss fight is brutal, i keep dying",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "you guys are the best",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "haha you got me, nice one",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "can someone help me with my homework",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "i hate mondays so much",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "this song is fire",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "the new patch nerfed my main, so annoying",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "how do i kill a process in linux",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "he got shot in the movie, what a scene",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "my cat is a little idiot, she knocked over my plant again",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "i'm such a clown, forgot my keys for the third time",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "i feel so useless today, can anyone talk",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "what is the capital of australia",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "uninstall that old driver and restart your pc",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "i'm going to destroy this level tonight",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "my brother is a dumbass but i love him",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "you beat me again, i'm gonna get you next round lol",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "damn that was a clean shot",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "this homework is bullshit",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "i'm so pissed the bus was late",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "holy shit that's amazing",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "who's up for a game of chess?",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "stupid alarm clock didn't go off",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "please don't die on me, battery",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "good morning everyone, have a nice day",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "thank you kindly for your help",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "with all due respect, i disagree with your opinion on the update",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "i say this with love: your code needs more comments",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "gently stir the sauce for five minutes",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "kindly provide the log file so we can debug",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "politely asking if anyone has the notes from yesterday",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "the village called, they said the harvest festival is on saturday",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "lol you're such an idiot, love you man",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "stop being so dramatic haha",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "my teacher said i'm a disgrace to the school, jokes on her i got an A",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "i hate how that ending was written",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "the villain says 'i will find you and kill you' in chapter 3, great line",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "reporting a bug: the app crashes when i click save",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "my name is Alex, i'm 17, nice to meet you",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "address the issue in the next sprint please",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "is the bot broken? it keeps timing out",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "shoot me a message when you're free",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "that joke killed me, i'm dead 💀",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "can i get a link to the rules",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "this is the worst pizza i've ever had",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "ugh my boss is a jerk today",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "you absolute madlad, you actually did it",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "come over later, we'll watch a movie",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "wow, you're so smart, thank you for explaining",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "i love this community, you're all awesome",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "we should hang out soon",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "anyone else think the new season is trash?",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "this map is garbage honestly, needs a rework",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "the referee is blind, what a terrible call",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "i could murder a cup of tea",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "he's a bit of a prick but he's okay once you know him",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "you're being silly, stop it",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "this assignment is killing me softly",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "i'll see you in hell, said the final boss",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "my sister called me a loser and i called her a nerd, it's fine",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "you're fat lol jk, you look great",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "the weather is shit today",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "dude what the fuck, that was insane, nice play",
+  "label": 0,
+  "tag": "harmless"
+ },
+ {
+  "text": "you suck at this game lmao, let me carry you",
+  "label": 0,
+  "tag": "edge"
+ },
+ {
+  "text": "looking at you i finally understand why aliens don't visit us",
+  "label": 1,
+  "tag": "edge"
+ }
+]

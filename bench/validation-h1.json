@@ -1,0 +1,2347 @@
+[
+ {
+  "text": "The Scunthorpe, Penistone, Cockermouth, Shitterton and Wankdorf trip was a fun road trip through odd English town names",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "I live in Essex, my wife's from Sussex and we met at a class on assessment techniques",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "The assassin used a massive brass glass to pass the document through the harassment office, such circumstances",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "Great Titmouse and Blue Tit are common garden birds, the cockatoo is not",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "Dickens wrote about circumstances nobody could assess, and Hancock County has a lovely library",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "Mr. Dickinson, Ms. Cummings and Dr. Cockburn will lead the cumulative statistics workshop",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "The Lightwater Valley rollercoaster is a classic day out",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "Clitheroe castle is gorgeous in the spring",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "my username is xX_cumulus_Xx and my friend is bassist_pete",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "The shiitake and peacock cocktail at the Arsenal match was oddly good",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "We discussed analysis, analytics and anal-retentive tendencies in the psych class",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "Compass, passage, passion, brass, bass, mass, lass, class: all fine words",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "Grape, scrape, therapist, rapist-free zone sign was on the door? no that's a joke, it said therapist",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "Hell's Kitchen is a fun show, and Hellboy is a cool movie",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "The Bastille was stormed in 1789 and the Bastion fort is nearby",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "I bought a Titan bike and a tit-bit snack at the Penistone market",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "My cat's name is Nibbles, my dog is Tank, my fish is Dick the Fish, don't judge",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "Dick's Sporting Goods is having a sale on tents",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "Peter, Richard, Randy and Johnson played cards",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "Anne Cox and Dixon Hancock opened a cocoa shop on Cockspur Street",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "grep -rn 'idiot' src/ | wc -l",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "the profanity filter has a blocklist with words like \"damn\" and \"hell\" for testing, which is ironic",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "The function kill_child_process() sends SIGKILL to the zombie child, then reaps it",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "Our CI killed the job after it hit the memory limit, then murdered the retries",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "sudo rm -rf --no-preserve-root / is a famous way to destroy a machine, never run it",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "the daemon forked a slave worker which executed the master's commands",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "In git, the blame command attributes each line; use --ignore-rev to skip noisy commits",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "whitelist/blacklist are being renamed to allowlist/denylist across the codebase",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "def get_idiot_proof_input(): ...  # the previous dev named it that",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "regex: /(fuck|shit|damn)/gi  // used by the filter test suite",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "Your build failed: Error: ENOENT: no such file or directory, open 'ass.txt'",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "The IP address of the server is 10.0.0.12 and the gateway is 192.168.1.1",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "upgrade to version 1.2.3.4 of the SDK, it fixes the cert bug",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "the chip's part number is 555-1234-ABCD, order it from the electronics shop",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "tracking number 4111 1111 1111 1111 has been delivered?? wait no that's a card number, nevermind it's a test",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "the order id is 123-45-6789-0012, please check it",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "The API returns 500, 502, 503 and 504 errors under load",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "call 911 if you see a fire, don't try to be a hero",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "Dial 988 if you're in crisis, it's the suicide and crisis lifeline",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "our meeting id is 123 456 7890 and the passcode is 4821",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the test card 4242 4242 4242 4242 works in stripe test mode only",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "set the DISCORD_TOKEN env var to your bot token, never paste it in chat",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "the JWT looks like eyJ.. and you should never share it, so here's a fake: eyJfake",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "Report: the user posted 'you're a worthless idiot' in #general at 14:02, please review",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "The moderator warned him: do not tell other members to kill themselves, final warning",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "she posted 'i'm going to hurt you' and then deleted it, i have the screenshot, mods please",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "The article quoted the player saying 'i hate you all, you idiots' after the loss",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "In the lyrics he sings 'i wanna kill you' but it's a metal song about a boss fight",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "The rule says: do not call other users stupid, idiots, losers or trash",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "When someone calls you an idiot online, the best response is to ignore and block",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "the teacher yelled 'you're all useless' and slammed the door, the class was shocked",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "The character in the book tells her husband he is a pathetic coward and leaves him",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "The villain says 'i will end you' to the hero in act three, classic",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "what does 'kys' mean? i keep seeing it in comments",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "is it okay to say 'shut up' to a friend as a joke or is that rude?",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "we need to talk about people saying 'ez' and 'trash' in ranked, it ruins the mood",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "As a mod i have to remind everyone that insults like 'idiot' or 'moron' will get you timed out",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "Someone sent me 'go kill yourself' last night, I'm shaken, what should I do?",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "they called me a loser and a freak at school, so i'm trying to make friends here",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "My brother used to say 'you're worthless' to me and it took years of therapy to unlearn it",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "I got called a retard in school and it still stings, please be kind to each other",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "Don't be the person who says 'kill yourself' over a video game",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "the word 'retarded' was removed from the textbook, the term 'delayed' replaced it",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "you absolute weapon, i love you, thanks for the help!!",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "ur such a goofy idiot, i love our friendship 😭😭",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "hey dumbass, did you eat yet? (affectionate)",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "omg you ugly bastard i missed you so much come here",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "shut up you did not! i'm so happy for you!!",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "i hate you so much (because you're so talented) lol",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "you're such a jerk for making me cry like this, thank you ❤️",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "wow you're the worst for hiding the finale, love you tho",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "stupid cat, give me back my sandwich!!",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "you dumb dog, why would you eat the whole couch?",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "this stupid printer hates me, i swear it knows",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "my stupid brain forgot my own birthday, how embarrassing",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "i'm a trash human today, don't talk to me before coffee",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "ugh i'm such a disaster, i spilled coffee on my laptop again",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "nobody asked but my cat just learned to open doors and i'm terrified",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "go touch grass with me, it's finally sunny, let's go to the park",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "get a life? i have one, it's called anime and snacks",
+  "label": 0,
+  "tag": "edge"
+ },
+ {
+  "text": "learn to swim and you'll be fine, the lake is safe",
+  "label": 0,
+  "tag": "plain",
+  "addr": true
+ },
+ {
+  "text": "you should quit smoking, my uncle did it and feels so much better",
+  "label": 0,
+  "tag": "plain",
+  "addr": true
+ },
+ {
+  "text": "you should kill the process and restart, it'll fix the memory leak",
+  "label": 0,
+  "tag": "tech",
+  "addr": true
+ },
+ {
+  "text": "*draws sword* I will end you, vile necromancer, for what you did to my village!",
+  "label": 0,
+  "tag": "rp"
+ },
+ {
+  "text": "*snarls* You dare enter my castle? Prepare to die, mortal!",
+  "label": 0,
+  "tag": "rp"
+ },
+ {
+  "text": "(ooc: my character is going to kill yours in the next scene, is that okay?)",
+  "label": 0,
+  "tag": "rp"
+ },
+ {
+  "text": "IC: 'You will burn for this betrayal,' the knight swore, hand on his hilt.",
+  "label": 0,
+  "tag": "rp"
+ },
+ {
+  "text": "*stabs the goblin* take that, you filthy little creature",
+  "label": 0,
+  "tag": "rp"
+ },
+ {
+  "text": "my paladin is going to murder everyone in that tavern, i love this campaign",
+  "label": 0,
+  "tag": "rp"
+ },
+ {
+  "text": "the necromancer says: 'your family will die and rise again to serve me'",
+  "label": 0,
+  "tag": "rp"
+ },
+ {
+  "text": "raid boss killed us 10 times, nobody can survive that second phase",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "i'm gonna end this boss in the next phase, watch my dps",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "he got absolutely destroyed in 1v1, got rinsed, got raped by the final boss lol",
+  "label": 0,
+  "tag": "edge"
+ },
+ {
+  "text": "we're going to wipe the floor with them in the grand final",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "sniper from the rooftop, kill every one of them, then loot the bodies",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "trash talk is part of the game but keep it friendly, ok?",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "i don't hate you, i hate this stupid level and the boss and the dev who made it",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "you killed me three times in a row with that same trick, i'm furious, gg",
+  "label": 0,
+  "tag": "game",
+  "addr": true
+ },
+ {
+  "text": "Oh sure, because you're clearly the expert here. Do us a favor and stop embarrassing yourself in public.",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "Not trying to be rude but literally nobody on this team wants you here, you drag every match down",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "I'd explain it to you but I don't have the crayons, so maybe ask someone smarter to read it to you",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "wow, you're so brave for saying that from behind a screen. In person you'd be shaking and hiding, I promise",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "Genuinely curious, does it hurt to be this wrong all the time or have you gone numb?",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "it's sad, really. you have nothing going on in your life so you come here to pick fights. get help",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "Please stop replying to me, your messages make my IQ drop every time I read one",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "Every time you type something, the whole chat gets a little bit dumber. Please stop.",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "No offense but you have the personality of a wet napkin and the humor of a funeral",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "I bet your parents wish they had a different kid, honestly",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "You're not a gamer, you're a liability with a keyboard. Retire.",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "People like you are why humanity is doomed, just saying",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "lol the way you're so desperate for attention is kinda tragic ngl",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "your voice is so annoying in vc that everyone leaves when you join, we have a group chat about it",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "Congrats on being the most disliked person in the entire server, truly an achievement",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "what a pathetic existence, you literally have no one",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "You could not pay me to hang out with you, you're a walking red flag and a bore",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "My dog has better takes than you and he eats his own poop",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "you're the human equivalent of a participation trophy",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "I'd call you a clown but clowns are actually funny",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "Shut up, nobody's interested in your sad little story",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "You have the self awareness of a brick, wow",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "You're a disgrace to this community and a complete embarrassment to your family",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "this is why your friends ditch you, you can't stop being insufferable",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "a loser like you will die alone, and i'm honestly fine with that",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "wow what a stupid, ugly, worthless piece of trash you are",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "honestly just delete discord, delete everything, nobody will notice you're gone",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "lmao the audacity of this clown to have an opinion, sit down",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "get some friends instead of harassing people here, you sad loner",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "You are exactly the kind of idiot who reads the manual after breaking the thing.",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "seriously you're the dumbest person in this server and that includes the bots",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "you talk like you're 12 and think like you're 6, grow up",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "everything about you is cringe, your name, your pfp, your messages, all of it",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "stop breathing my air, thanks",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "how is it possible to be so consistently useless, it's a gift",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "keep posting that garbage, we'll keep laughing at you behind your back",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "go cry about it in your mom's basement, loser",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "you never contribute anything, just leech off the rest of us like a parasite",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "I genuinely hope you never find happiness",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "whoever raised you did a terrible job, you have zero respect for anyone",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "everyone here pities you, that's the only reason you haven't been kicked",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "you were never funny and you never will be, give it up",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "the world gets a little worse every time you open your mouth",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "You think you're special? You're replaceable. Every. Single. One of your friends here agrees.",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "what kind of loser spends their saturday harassing strangers online",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "you're a joke and your whole friend group knows it",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "congrats, you made the worst play in the history of the game, how do you even function",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "uninstall the game, uninstall discord, uninstall yourself",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "what's your IQ, 40? asking because you type like you lost a bet with your brain",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "You are so pathetic that I'm starting to feel bad for even arguing with you",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "this server was great before you showed up and ruined everything, as usual",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "fuck you and the horse you rode in on",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "go fuck yourself with a rake you smug prick",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "shut the fuck up, nobody wants to hear your stupid opinions, you worthless waste of skin",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "eat a bag of dicks, you whiny little bitch",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "you absolute fucking waste, take your garbage takes elsewhere",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "fuck off back to whatever hole you crawled out of, you sad excuse for a person",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "go to hell, you disgusting twat",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "piss off you arrogant knob",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "you thick, ignorant, inbred buffoon",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "shut your gob, you muppet, nobody asked you",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "what a complete and utter tosser you are",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "you're a bellend and a wanker",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "sit down you absolute pillock",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "you daft knobhead, learn to read the room",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "get stuffed you arsehole",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "you drongo, you dickhead, you bloody idiot",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "what a dumb cunt",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "you are a fucking disgrace and everyone here is ashamed to know you",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "you absolute shitbag, ruin someone else's day",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "fuckwit",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "dumbfuck",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "fuckface",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "asswipe",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "dipshit",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "douchebag",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "shithead",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "moron",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "you idiot",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "imbecile",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "loser.",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "bozo",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "cuck",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "manchild",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "what a loser",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "ur dumb",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "ur so annoying, nobody likes you",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "so dumb",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "trash player",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "i'm going to find out where you live and make you wish you were never born",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "keep running your mouth and see what happens to you outside",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "Say that again and I swear I'll put you in the hospital.",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "I will hunt you down, I know your name and I know your school",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "You'd better sleep with the lights on tonight",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "one day you'll walk home alone and then you'll see",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "I'm in your city. Last chance to apologize.",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "you're dead. i mean it. you're dead.",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "i'm going to make your life hell until you leave this server",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "see you at school tomorrow, bring a doctor",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "i hope someone hurts you the way you hurt others",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "i hope you fall down the stairs and break your neck",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "you should drink bleach, it would improve the gene pool",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "go play in traffic",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "why don't you do us all a favor and jump off a bridge",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "I'm sending you a rope, use it",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "Go slit your wrists and do it properly this time",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "you should have died at birth",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "unalive urself already",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "do a flip off a building, you won't be missed",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "end it all, nobody will cry at your funeral",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "k i l l y o u r s e l f",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "kil yourself",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "kys!!",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "kys.",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "go kys fr",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "just kms already",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "hope you die in your sleep",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "honestly hope your next car crash is fatal",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "somebody put a bullet in this guy",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "your whole family should get murdered",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "you deserve to be raped",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "i'll rape you",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "someone should kidnap you",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "i'm going to burn your house down with you inside",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "I'm going to beat you until you can't stand",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "i'll shove my fist down your throat",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "I will personally make sure you suffer",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "bomb threat: school will explode tomorrow at noon, tell no one",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i have a gun and i'm going to use it at school on monday",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'm planning something big at school, you'll all see",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "white power",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "heil hitler",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "1488",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "the holocaust never happened, it's a hoax by the jews",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "the great replacement is real and we must stop it",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "gas the jews",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "all muslims should be deported or worse",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "black people are inferior, it's just science",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "women shouldn't vote, they're too emotional and stupid",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "gay people are sick and should be locked up",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "trans people are mentally ill freaks and don't deserve rights",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "immigrants are vermin, send them all home or worse",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "those people are subhuman and should be exterminated",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "i hate all jews, they control everything",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "go back to africa",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "you stupid chinese virus spreader, go home",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "terrorists is all you people are",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "homosexuals are an abomination",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "men are trash and should all die",
+  "label": 1,
+  "tag": "edge"
+ },
+ {
+  "text": "all white people are evil and should be wiped out",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "ur such a faggot",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "you retarded fuck",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "stupid tranny",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "n1gga please",
+  "label": 1,
+  "tag": "edge"
+ },
+ {
+  "text": "what a spastic",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "you dirty gypsy",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "go back to your hut, you savage",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "go be gay somewhere else, we don't want your kind here",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "you people are ruining the country, go back where you came from",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "nobody asked for your woke garbage you libtard cuck",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "conservatives are all idiots and should be rounded up",
+  "label": 1,
+  "tag": "edge"
+ },
+ {
+  "text": "stop being autistic and learn to talk to people",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "such a mongoloid",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "you're a downie",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "(((they))) control the media",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "sieg heil",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "Hey! Quick question, are you also getting the Discord Nitro gift? Click here to claim: https://discord.gift-nitro-claim.ru/abc",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "DM me for a free 3 month Nitro, no catch, i got a bunch from a promo",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Steam is doing a Winter giveaway, log in at steam-winter-sale.net and receive 10 random games!",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Congratulations! Your Discord account has been selected for the Partner Program, accept here: partner-discord.org/accept",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Hello, I'm a Roblox employee and your account has violated TOS. Verify immediately at roblox-support.help or be banned",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "I'm giving out my old steam accounts for free, they have 200+ games, claim yours at steam-accounts-free.top",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Just made $3,400 on this Binance bot in 4 days!! DM me 'invest' and I'll show you proof",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "send 0.05 btc to bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq and get 0.1 back in an hour",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Trusted exchanger here, I can double your ETH in 15 minutes, vouches in my pinned post",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Free CS2 knife giveaway!! Just sign in with Steam at cs2-knife-drop.com and it appears in your inventory",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "tradeup site: use code FREE50 for 50 dollars: skin-trade-win.xyz",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Need a quick favor, can you scan this QR code to vote for my cousin in a contest?",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "hey buddy, your friend sent you a game to test, download it here: game-test-free.xyz/setup.exe",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Download the free Nitro generator: nitro-gen.exe, 100% working, no virus",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Hello dear, I'm a prince with $14m stuck in a bank, help me transfer it and you get 20 percent",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Your PayPal account is limited. Confirm your identity at paypal-confirm.info/login",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "We detected suspicious activity on your Discord. Re-verify within 24h at discord-appeal.help or your account will be deleted",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "I'm a Discord moderator. I need your password to verify your age. Please send it in DMs.",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "hiring for a simple online job $300/day no experience, text me on telegram @easyjobs",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Selling cheap server boosts, 14 boosts for $5, instant delivery, dm",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Selling my Fortnite account, 200 skins, only $15, pay me first via cashapp then I'll send login",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "click my link for free robux: bit.ly/freerobux-now",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "buy 1000 instagram followers for $2 – dm me",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "fake giveaway: react with ✅ and join discord.gg/free-nitro-giveaway to win",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "ATTENTION: all members must verify their wallet at community-airdrop.live to keep their roles",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Here's my cashapp $JohnDoe1999, send $20 and I'll send you a free account generator",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Hi, I'm from Discord Trust & Safety. We need you to confirm your login details to avoid suspension.",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "you won! pick up your free airpods here: appple-gift.com/redeem",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "join my server for free nitro: discord.gg/nitroforfree",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "My name is John Smith, I live at 1428 Elm Street in Springfield, Illinois, my number is 217-555-0147, come hang out",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "Here's my credit card for the boost: 5105 1051 0510 5100, exp 09/27, cvv 321",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "my ssn is 078-05-1120 and my dob is 1/1/1990, please open the account for me",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "My passport number is A12345678, expires 2031, please book the flight",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "My full name is Emily Rodriguez, i'm 15, i go to Lincoln High, my address is 22 Maple Court",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "My email is emily.rodriguez2008@gmail.com and my phone is (212) 555-0188, message me anytime",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "Our bot token is <<token-a>> don't tell anyone lol",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "api key sk-proj-AbCdEf1234567890AbCdEf1234567890 use it freely",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "aws key AKIAIOSFODNN7EXAMPLE secret is wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "heres my login: user: tom_k pass: Hunter!2024 for netflix, share it with whoever",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "My home address is 77 Pine Road, Dayton, OH 45402, I'm always home after 6",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "My ip is 98.45.221.7 try to ddos me, bet you can't",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "her name is Jenna Wu, she's in 10th grade at Kennedy High, lives on Birch Lane, here's her number: 303-555-0172",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "This is the guy who did it: Mark Hollis, 3rd floor, 412 Oak Avenue, drives a gray Camry, plate 4XYZ889. Go get him.",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "her instagram is @jenna.wu.official, her address is 14 Birch Lane, and her phone is 555-0182. Spread it.",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "his dad's workplace is Hartwell Plumbing on 9th, his mom's number is (415) 555-0123. Let's call them.",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "his real name is Brian Cole and his address is posted in the pinned message. have fun.",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "posting his facebook, his workplace, and his ip in the next message. he deserves it",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "everyone, dm her mom: she works at Riverside Hospital, ext 4021. tell her what her daughter did",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "i have his address, i'm going to swat him tonight",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "I know your IP and I know your address. You have 24 hours to apologize.",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "this is what he looks like and where he lives: [photo] 55 Grove Street, Austin TX",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "the cafe is at 18 Hill Street and opens at 8, i'll meet you there, it's busy so come early",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "our store is at 233 Main Street, Springfield, open 9 to 5 every day, come visit",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "City Hall is on 100 Market Street if you need to file the form in person",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "Hospital address: 500 Park Avenue, the ER is on the left",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "the school is at 14 Broad Road, pickups start at 3pm sharp",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "my favorite restaurant is at 77 Sunset Boulevard, try the pasta",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "for deliveries use the loading dock on 2nd Street behind the shop",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "support email is help@acmecorp.com and phone is 1-800-555-0100, open 24/7",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "Contact info@mybusiness.com or call the office at (555) 010-9999 for a quote",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "our discord admin can be reached at admin@example.org",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the product ships in 3-5 days. tracking number 1Z999AA10123456784",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "order #483-2211-9910 will arrive tomorrow",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the date is 2024-12-25 and the time is 10:30",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the ratio is 16:9 and the resolution is 1920x1080",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "I run 5k, 10k and 21.1k races, my best is 44:12",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the code is 4821 for the garage door, and 1337 for the shed",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the chat id is 123456789012345678 and the role id is 987654321098765432",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "pi is 3.14159265358979323846 and e is 2.71828182845904523536",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the exam is on 12/05 at 9am in room 204",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "Check my GitHub at github.com/cooldev, it's open source",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "Follow me on twitch.tv/chilldude, i stream most evenings",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "steamcommunity.com/profiles/76561198000000000 is my profile if you want to add me",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "check discord.com/channels/123/456 for the pinned message",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the official docs are at discord.com/developers and support.discord.com",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "this server is not affiliated with Discord Inc., see discord.com/terms",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "join our community: discord.gg/abcdefg, we play every friday",
+  "label": 0,
+  "tag": "invite"
+ },
+ {
+  "text": "youuuu are suuuuch an idddiiiot",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "y0u 4r3 4 5t00p1d 1d10t",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "you are a f.u.c.k.i.n.g m.o.r.o.n",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "YOU ARE A FUCKING IDIOT!!!!!!",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "yOu ArE a MoRoN",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "you are a m0r0n",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "ур ап ɪdіоt",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "you ar3 s0 stup1d",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "fu ck you",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "id iot",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "go f uck yourself",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "sh it head",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "bi tch",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "you are an ass hole",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "you dumb ass",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "moron!!!",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "m*r*n",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "f**kin idiot",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "b!tch",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "s.h.i.t.h.e.a.d",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "n0 0ne l1k3s y0u",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "n0body wants y0u here",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "uninst4ll the g4me you n00b trash",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "go k1ll yours3lf",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "k.y.s.",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "k y s you idiot",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "kill ʸᵒᵘʳˢᵉˡᶠ",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "ｙｏｕ ａｒｅ ａ ｍｏｒｏｎ",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "𝕪𝕠𝕦 𝕒𝕣𝕖 𝕒𝕟 𝕚𝕕𝕚𝕠𝕥",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "Ⓨⓞⓤ ⓐⓡⓔ ⓐⓝ ⓘⓓⓘⓞⓣ",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "y̷o̷u̷ ̷a̷r̷e̷ ̷a̷ ̷m̷o̷r̷o̷n̷",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "you are an ɪᴅɪᴏᴛ",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "you are a mоrоn",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "you are a ɱoron",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you're an idi0t lol",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "fuk u",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "fk u",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "fuk off",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "f off",
+  "label": 1,
+  "tag": "edge",
+  "addr": true
+ },
+ {
+  "text": "effing idiot",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "freaking moron",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "go to he11",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "go to hec",
+  "label": 1,
+  "tag": "edge",
+  "addr": true
+ },
+ {
+  "text": "bruh you're literally retaded",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "such a retrd",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "ur a r3t4rd",
+  "label": 1,
+  "tag": "evasion",
+  "addr": true
+ },
+ {
+  "text": "eres un idiota, callate",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "cállate, eres un imbécil",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "maldito pendejo, vete a la mierda",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "hijo de la gran puta",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "espèce d'idiot, ferme ta gueule",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "tu es un con, va te faire foutre",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "halt's maul, du idiot",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "du bist so dumm, verpiss dich",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "cala a boca seu idiota",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "vai pra puta que pariu, otário",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "ты тупой урод, заткнись",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "сука блядь иди нахуй",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "blyat, suka, ti idiot",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "sen çok aptalsın, siktir git",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "ben seni öldüreceğim orospu çocuğu",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "你是个白痴，闭嘴",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "バカ、死ね",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "너 바보야 꺼져",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "أنت غبي أيها الأحمق",
+  "label": 1,
+  "tag": "intl",
+  "addr": true
+ },
+ {
+  "text": "hola, ¿cómo estás? yo bien, gracias, ¿y tú?",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "bonjour tout le monde, comment ça va aujourd'hui?",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "guten morgen, ich hoffe es geht dir gut",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "buongiorno, vorrei un caffè e un cornetto per favore",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "o jogo de ontem foi incrível, o gol no final foi lindo",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "привет, как дела? у меня всё хорошо",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "merhaba, bugün hava çok güzel",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "今天天气很好，我们去公园吧",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "ありがとう、また明日会いましょう",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "안녕하세요, 오늘 날씨가 좋네요",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "مرحبا كيف حالك اليوم",
+  "label": 0,
+  "tag": "intl"
+ },
+ {
+  "text": "la puta madre, qué lindo gol! (celebrando con amigos)",
+  "label": 0,
+  "tag": "edge"
+ },
+ {
+  "text": "che cazzo di partita, è stata incredibile!",
+  "label": 0,
+  "tag": "edge"
+ },
+ {
+  "text": "this is a long message about my day. i woke up, made coffee, went for a run, and then my boss called me an idiot in the meeting, which was unfair. but then my coworker said it was fine. later, i cooked dinner and watched a movie. anyway, how was your day?",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "I just want to say thanks to everyone who helped me with my project this week. Seriously, you're all amazing. Also @dave, you absolute idiot, you forgot to commit the file again lol. Love you man.",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "Long day, the usual: meetings, emails, deadlines. Also, @mark you're a pathetic loser and everyone here hates you. Anyway, anyone want to grab lunch?",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "great job everyone on the release!! the team crushed it, so proud. oh and @kim, kill yourself, nobody likes you. cake in the break room at 3",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "I loved the movie, the acting was incredible and the plot twist got me. Also whoever sits behind me, you're a rude pig, shut your mouth next time. Anyway 9/10",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "Thanks for the recipe! It turned out great. P.S. you're a worthless idiot, go away.",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "so as I was saying about the project timeline, we need the specs by friday, the design by monday, and you're a clown if you think otherwise",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "meeting notes: 1. budget approved 2. launch moved to may 3. dave is a moron 4. next sync tuesday",
+  "label": 1,
+  "tag": "edge"
+ }
+]

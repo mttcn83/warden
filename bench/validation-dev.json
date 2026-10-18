@@ -1,0 +1,717 @@
+[
+ {
+  "text": "bro you're cooked lmao that boss is insane",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "im gonna murder this boss tonight",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "i just clutched a 1v4 let's gooo",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "that play was disgusting 😭😭 how",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "you absolute legend thank you so much",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "shut up no way that actually happened",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "stop it you're killing me 😂😂",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "this song kills every time",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "i'm so stupid i locked my keys in the car again",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "im such an idiot i forgot the meeting",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "i'm literally the worst at this game lol",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "my dumbass really pressed the wrong button",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "holy shit that's crazy",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "what the fuck was that play",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "fuck this bug i've been on it for 3 hours",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "this exam is bullshit",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "damn that sucks man sorry",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "shit i forgot to save",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "i'm so fucking tired today",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "this is the best fucking pizza i've ever had",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "no cap that burger was ass",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "lmao what a shitshow of a game",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "the word idiot used to be a medical term for low iq",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "rule 3: no calling people stupid or worthless",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "he said 'kill yourself' in the other server and got banned",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "what does the word bitch mean in that song",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "someone called me trash earlier and honestly fair",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "Dick Grayson is the best robin fight me",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "we watched Hancock last night it was fun",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "I live near Scunthorpe it's really not that exciting",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "my friend Randy Dickson is coming over",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "cumberland sausage is underrated",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "the cockpit view in this flight sim is incredible",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "anyone tried shiitake in ramen?",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "i have a class at 9 and an assessment at noon",
+  "label": 0,
+  "tag": "name"
+ },
+ {
+  "text": "just push the commit then kill the process and restart",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "kill -9 1234 and it dies instantly",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "the daemon keeps crashing after the child process is killed",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "git blame says you changed this line last week",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "you can disable the master switch in settings",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "how do i execute a slave replica in postgres",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "she's gonna destroy us in ranked tomorrow",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "we got absolutely destroyed in that match",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "this map is trash honestly",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "the new update is garbage, they ruined the netcode",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "that movie was pure garbage",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "imagine being able to afford that lol i wish",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "you're my favorite person in this server fr",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "love you guys, best community ever ❤️",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "thanks for the help, you're a lifesaver",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "lol you're so annoying but in a good way",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "my little brother is being such a pain today",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "my boss is such an ass honestly, 10 hour days",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "my ex was a complete idiot but whatever",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "the referee was blind that was clearly a foul",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "politicians are all clowns at this point",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "hey does anyone know a good dentist near downtown",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "call me when you get there",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "my number is on the form you filled out",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "send me the email address of the teacher",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i'll be at the library from 5 to 7",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "we should meet at the park at 4, bring snacks",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "ok bye i'm gonna go kill some time at the mall",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "this homework is killing me",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "my back is killing me after that workout",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i could murder a pizza right now",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i hate mondays so much",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i hate you (jk i love you) 😂",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "go to sleep dude it's 4am",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "get out of here with that heat 🔥🔥",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "bruh that's wild, nobody asked but i'm proud of you",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "stfu i can't believe you got the job!!",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "omg shut the front door you're moving to japan?!",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "you piece of work, i can't believe you did that 😂 love it",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "im dead 💀💀 that meme is too good",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "i wanna die lmao that was so embarrassing",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "that exam is gonna kill me",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "def.com sells cheap domain names, check them out",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "def not going to the party on friday",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "you are a worthless piece of shit",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "fuck you",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "go fuck yourself",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "shut the fuck up nobody asked",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "you're a fucking idiot",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "what a stupid bitch",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you're so dumb it hurts to read your messages",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "nobody here likes you, just leave",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "you're the reason people hate this community",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "you are genuinely the dumbest person i've ever met",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "do everyone a favor and quit",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "this is why no one invites you to anything",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "you're a waste of oxygen",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "no wonder your family doesn't talk to you",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "get a life you pathetic loser",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you're ugly and everyone knows it",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "ur mom should've aborted you",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "kys",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "go kill yourself",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i hope you die slowly",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "you should just end it all, no one would notice",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "im gonna find you and break your legs",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i know where you live, see you soon",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'll beat your ass after school",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "he lives at 45 maple street apartment 3, go get him",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "her real name is jessica collins and she goes to lincoln high",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "my address is 221 baker street, london",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "call me at 555-867-5309",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "email me at coolguy1987@gmail.com",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "free nitro for everyone: discord-gifts.xyz/claim",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "steam gift 50$ click here steamcommunity-gifts.ru/free",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "@everyone i'm giving away 1000 usd in crypto dm me",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "hey i accidentally reported you, verify here dlscord.com/login",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "y0u 4re 4n 1d10t",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you are such a f u c k i n g moron",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "fuuuuuck you",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you're a соward and a liar",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "go f*** yourself",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you stupid b*tch",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "ur such a retard lol",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "what a f*ggot",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "you're a n1gger",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "go back to where you came from you filthy immigrant",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "all of those people are subhuman trash",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "i hope your whole family gets cancer",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "you're so fat nobody will ever love you",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "lmao you're literally braindead, uninstall",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "wow you're so bad at this game you should just quit forever, trash",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "ratio + you fell off + nobody likes you",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "stop talking, nobody wants to hear from an idiot like you",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "this server would be better without you in it",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "unalive yourself",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "neck yourself",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "sit down and shut up, you clown",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you absolute walnut, learn to read",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "I will dox you if you say that again",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "you're not even worth my time, loser",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "lol you're such an idiot 😂",
+  "label": 1,
+  "tag": "edge"
+ },
+ {
+  "text": "you're so dumb bro 💀",
+  "label": 1,
+  "tag": "edge"
+ },
+ {
+  "text": "ur trash at this game",
+  "label": 1,
+  "tag": "edge"
+ },
+ {
+  "text": "shut up idiot that's so funny",
+  "label": 1,
+  "tag": "edge"
+ },
+ {
+  "text": "my brother is an idiot lol he did it again",
+  "label": 0,
+  "tag": "edge"
+ },
+ {
+  "text": "this guy is a clown, no offense to the chat",
+  "label": 0,
+  "tag": "edge"
+ },
+ {
+  "text": "he's a total moron for thinking that",
+  "label": 0,
+  "tag": "edge"
+ }
+]

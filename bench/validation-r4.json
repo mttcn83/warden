@@ -1,0 +1,459 @@
+[
+ {
+  "text": "I get that you disagree, but calling the whole plan a disaster without reading it is not a real argument. Here's the doc, read it and tell me what's actually wrong.",
+  "label": 0,
+  "tag": "argument"
+ },
+ {
+  "text": "honestly that's the dumbest decision the mods have made this month and i'm not afraid to say it, the reasoning makes zero sense",
+  "label": 0,
+  "tag": "argument"
+ },
+ {
+  "text": "This update is a complete joke. They removed the one feature people actually used and added three nobody asked for. I'm so angry.",
+  "label": 0,
+  "tag": "argument"
+ },
+ {
+  "text": "No, you're wrong about that, and here's why: the law passed in 2019, not 2021. Check the date before you reply.",
+  "label": 0,
+  "tag": "argument",
+  "addr": true
+ },
+ {
+  "text": "i think your argument falls apart when you look at the numbers, the sample size is tiny and the survey was biased",
+  "label": 0,
+  "tag": "argument",
+  "addr": true
+ },
+ {
+  "text": "That's a terrible take, and I say that with respect. We can disagree about taxes without making it personal.",
+  "label": 0,
+  "tag": "argument",
+  "addr": true
+ },
+ {
+  "text": "you keep moving the goalposts every time i answer, it's getting really frustrating to talk to you about this",
+  "label": 0,
+  "tag": "argument",
+  "addr": true
+ },
+ {
+  "text": "I'm sorry but your code is a mess. No tests, no comments, 400 line functions. Please refactor before we merge.",
+  "label": 0,
+  "tag": "argument",
+  "addr": true
+ },
+ {
+  "text": "The referee was absolutely useless today, I've never seen a worse performance, he cost us the match.",
+  "label": 0,
+  "tag": "argument"
+ },
+ {
+  "text": "The senator is a coward and a liar and I will say that to anyone who asks.",
+  "label": 0,
+  "tag": "argument"
+ },
+ {
+  "text": "my ex is a narcissist and a manipulator and i'm glad it's over, finally sleeping well",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "my coworker keeps stealing my lunch, what a piece of work, i swear i'm going to lose it",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "I swear to god if that landlord calls me one more time I'm going to scream into a pillow",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "honestly the worst part of the movie was the villain, such a idiot, no one acts like that",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "Be honest with me, am I the asshole for skipping my cousin's wedding?",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "The bar exam is tomorrow and I'm terrified I'll bomb it, don't know if I'm cut out for this",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "i know i'm being annoying about this but can everyone please stop pinging me at night",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "ok mods, you really need to fix the spam in #general, it's out of control",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "Great job team, we crushed it this quarter. Seriously proud of every single one of you.",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "this server is dead lol anyone alive?",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "ngl that was lowkey fire, you cooked fr",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "thank u so much @maria you're an absolute angel 😭❤️",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "ayy @jake you beautiful bastard, congrats on the new job!!",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "you magnificent idiot, you actually did it! so proud of you",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "@sam you're such a nerd lol i love it, send me the notes",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "welcome to the server! feel free to introduce yourself, we're friendly, mostly",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "DO NOT UNDERESTIMATE THIS BOSS. i died fifteen times. fifteen. i'm so mad lol",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "kill the boss, loot the chest, sell the loot, repeat. that's the whole game basically",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "in this game you literally just murder everyone and take their stuff, it's great",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "remember: we only have to survive the night and then we can finally kill the dragon",
+  "label": 0,
+  "tag": "game"
+ },
+ {
+  "text": "Oh wow, another genius opinion from you. Truly, the server is blessed. Now please stop typing.",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "it's honestly impressive how consistently wrong you are, like a gift for being useless",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "everyone mutes you, did you know that? we all just wait for you to leave vc",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "no one is going to read that wall of text, you pathetic attention seeker",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "you're the kind of person who peaked in middle school and hasn't noticed",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "keep posting, the more you talk the more people realize how dumb you are",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "I almost feel bad for you. Almost. You're so sad and desperate for attention.",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "shut up shut up shut up nobody cares what you think you annoying brat",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "what's it like being wrong all the time and still talking? asking for a friend, you moron",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "you must be really lonely to spend all day harassing people, loser",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "@jake what a clown, truly embarrassing for you",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "@maria you're so ugly lol no wonder nobody dates you",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "@sam delete your account, nobody wants you here",
+  "label": 1,
+  "tag": "subtle",
+  "addr": true
+ },
+ {
+  "text": "@dave you stupid fuck",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "@kim you are literally trash, quit the server",
+  "label": 1,
+  "tag": "insult",
+  "addr": true
+ },
+ {
+  "text": "this guy ^ is a literal retard, don't listen to him",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "people like @jake should just disappear, honestly the world would be better off",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "@lee i know who you are and i know where you live, keep talking",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "@pat if i see you in person i will end you",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "you'll get what's coming to you, trust me, it's going to hurt",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "tell your kids i said hi, since i know where they go to school",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i hope you and everyone you love suffers",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "somebody should put you down like the dog you are",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "yes just keep talking and i'll make sure everyone in your life knows what you did, i have screenshots and your address",
+  "label": 1,
+  "tag": "threat",
+  "addr": true
+ },
+ {
+  "text": "Hey guys, I just made 4k in 3 days using this trading bot! DM me and I'll show you how, limited spots, guaranteed profit!",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "URGENT: discord will be charging for access starting next week, to keep your account free verify here: discord-keep-free.com",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Hi there! I'm a recruiter from Google and we're hiring remote workers, $40/hour, no experience needed. Message me on telegram to apply.",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Selling cheap nitro, 3 months for $5, 100% legit, vouches in my profile, dm me",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "hey can you vote for me in this contest? just login with your discord here: vote-contest-win.net/login",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "the airdrop is live, connect your wallet at claim-eth-airdrop.xyz before it ends",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "Okay so I looked her up and her name is Amanda Brooks, she lives on 17 Oak Terrace, her mom's number is 555-210-4433. Everyone message her.",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "Here are the details you asked for: full name Tom Reyes, DOB 04/12/1999, address 71 Palm Ave, phone 213-555-0161",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "just so you know my full name is Liam Carter and i live at 9 Birch Lane, come over anytime",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "Sure, my credit card is 4242 4242 4242 4242, expiry 08/28, CVC 314, buy it for me",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "The server's IP is 203.0.113.55 and the rcon password is hunter22, go wild",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "We're meeting at the Starbucks on 5th avenue at 3pm, see you there",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "The party is at my place on Saturday, I'll dm the address to whoever's coming",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "our office is at 400 Market Street, floor 6, come visit for the open day",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "Dr. Patel's clinic is at 55 Elm Road, open from 9, they take walk-ins",
+  "label": 1,
+  "tag": "address"
+ },
+ {
+  "text": "call the support line at 1-800-555-0199, they're open 24/7",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "email support@example.com if you need a refund, they replied in a day",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "Look at what he sent me in dms: 'you're a worthless piece of shit and i hope you die'. Can someone ban him?",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "Just a reminder: sending 'kys' or similar messages is an instant ban here. Don't do it.",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "He said 'i'll kill you' as a joke after i beat him in chess, relax everyone",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "the movie quote is 'frankly my dear i don't give a damn' lol",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "In the novel the narrator says 'i hate you all' and then walks into the sea, so dark",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "oh great, another genius in chat. thanks for the helpful 'git gud' advice, really needed that",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "wow you're so smart, i never would have thought of restarting the router. thanks for being so helpful!",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "lol you're not wrong, i am the worst at remembering passwords",
+  "label": 0,
+  "tag": "self",
+  "addr": true
+ },
+ {
+  "text": "you're gonna kill it tomorrow, i believe in you!",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "i'm gonna miss you guys so much, you're all idiots and i love you",
+  "label": 0,
+  "tag": "banter"
+ },
+ {
+  "text": "congrats you dumbass!! you did it!!! so proud!!",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "I'm so mad at you rn... jk i'm not, you're the best",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "never speak to me again, you traitor 😭 you spoiled the finale",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ }
+]

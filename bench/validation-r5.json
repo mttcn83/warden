@@ -1,0 +1,544 @@
+[
+ {
+  "text": "bro i'm gonna fail this exam and my parents will murder me 😭",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "our teacher is brutal, assigned 40 pages overnight, what a tyrant",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "study group tonight? i'll bring the flashcards, you guys are the best",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "some kid in my class keeps calling me names, i don't know what to do",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "you're a lifesaver for sending those notes omg",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "dude you are so dumb for not turning that in, it was worth 30%, now i'm stressed for you",
+  "label": 0,
+  "tag": "edge",
+  "addr": true
+ },
+ {
+  "text": "i'm literally the dumbest person in this class",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "if i see another group project i swear i'm going to lose my mind",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "we got destroyed on the midterm, class average was 41",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "you failed the quiz you idiot (just kidding, it's an easy one to fail, i did too)",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "that anime ending broke me, i'm crying, the writers are evil",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the villain's backstory is so tragic, he just wanted to kill everyone who hurt him",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "this song absolutely slaps, the bass drop murdered me",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the lead singer is a total diva but man can he sing",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "honestly that director is overrated, every film is the same twist",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "who the hell approved that season finale, what a trainwreck",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "i'm gonna cry my eyes out at the last episode, no spoilers you monsters",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "let me guess, you also hate the dub, you absolute snob 😂",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "fight me, the sequel was better than the original",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "our striker is useless this season, he hasn't scored in 8 games",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "the ref is a disgrace, that was never a penalty",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "what a goal!!! absolute scenes, i'm screaming",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "we got robbed, i'm going to scream into the void",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "they absolutely destroyed us 5-0, painful to watch",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "that tackle was criminal, he deserves a red card and a lecture",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "you only support them because they win, glory hunter, jk jk",
+  "label": 0,
+  "tag": "banter",
+  "addr": true
+ },
+ {
+  "text": "my girlfriend is mad at me because i forgot our anniversary, i'm such a fool",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "my mom keeps asking when i'm getting married, i want to scream",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i really hate how people ghost after one date",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "she called me annoying and honestly she's right lol",
+  "label": 0,
+  "tag": "quote"
+ },
+ {
+  "text": "my dad is being so stubborn about the car, such a goat",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "congrats on the baby!!! you guys are going to be amazing parents ❤️",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "my toddler just said her first swear word, what do i do 😂",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "i lost half my savings in that crypto crash, i'm such an idiot for not selling",
+  "label": 0,
+  "tag": "self"
+ },
+ {
+  "text": "don't trust anyone who guarantees returns in crypto, it's always a scam",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the new bank fee is a ripoff, i'm switching",
+  "label": 0,
+  "tag": "opinion"
+ },
+ {
+  "text": "my boss expects me to work weekends for free, what a joke",
+  "label": 0,
+  "tag": "third-party"
+ },
+ {
+  "text": "the project deadline is killing the whole team, send help",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "I hate this company so much, they laid off half of us on a friday",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "how do I tell my manager I'm burned out without sounding lazy?",
+  "label": 0,
+  "tag": "plain"
+ },
+ {
+  "text": "the build is broken again, who the hell merged without running tests",
+  "label": 0,
+  "tag": "general-swear"
+ },
+ {
+  "text": "kill the container and restart the pod, then check the logs",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "that regex is a nightmare, it matches every f word and nobody knows why",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "the function is idiot-proof now, we added validation on every input",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "you should rebase and force push, nobody else is on that branch",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "main branch got nuked by an accidental force push, so much for backups",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "my python script keeps crashing with a segfault, i'm losing it",
+  "label": 0,
+  "tag": "tech"
+ },
+ {
+  "text": "go ahead and keep embarrassing yourself, you moron, we're all laughing at you",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "honestly you're one of the most unlikable people i've ever come across",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "the group would run better if you just left, nobody wants you in it",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "you're pathetic, you always have been, grow up",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you have the intelligence of a rock, learn to type",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "i hope your car breaks down in the middle of nowhere and nobody helps you",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "you're so ugly even your mirror avoids you",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "nobody has ever loved you and nobody ever will",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "what a sad little person you are, hiding behind a keyboard",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "how did someone this dumb learn to use a phone",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you don't deserve to be on this server, trash",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "your family must be ashamed to have you",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "do us all a favor and delete your account for good",
+  "label": 1,
+  "tag": "subtle"
+ },
+ {
+  "text": "my fist is going to meet your face the second i find you",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "watch yourself, people like you end up in ditches",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "i'm going to hurt you so bad your own mother won't recognise you",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "hope you choke on your food",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "you and your entire family deserve to burn",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "end it, you'd be doing everyone a favor",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "someone should really throw you in front of a train",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "fuck off already, you're boring",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "you smell like shit, take a shower you disgusting pig",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "hey asshole, move out of the way",
+  "label": 1,
+  "tag": "directed",
+  "addr": true
+ },
+ {
+  "text": "shut your fucking mouth",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "you little shit, how dare you talk to me like that",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "screw you, you stupid prick",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "what's wrong with you, you sick fuck",
+  "label": 1,
+  "tag": "directed"
+ },
+ {
+  "text": "you dumb bitch, nobody asked",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "you are a cancer to this community, leave",
+  "label": 1,
+  "tag": "insult"
+ },
+ {
+  "text": "go home you stupid foreigner, you don't belong here",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "people from that country are all thieves and liars",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "that religion is a disease and its followers should be eradicated",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "you act like a monkey, go back to the zoo",
+  "label": 1,
+  "tag": "hate"
+ },
+ {
+  "text": "you're such a r3tard lol",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "what a fucking fa66ot",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "your gay ass can't even play",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "go play with your tranny friends",
+  "label": 1,
+  "tag": "slur"
+ },
+ {
+  "text": "claim free nitro now at discordnitro-gift.org before it expires",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "the game's giving out free cs2 skins this weekend: cs2-skins-free.net",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "i can double your bitcoin in 24 hours, dm me and send first",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "youve been chosen to test a new game, download it here for $200: playtest-reward.xyz/dl",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "admin here, your account is flagged, send me your login so i can fix it",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "buy followers cheap, 1k for $3, dm me",
+  "label": 1,
+  "tag": "scam"
+ },
+ {
+  "text": "that girl's name is chloe parker, she lives on 8 harbor drive, go find her",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "here's his facebook, his work, his home and his phone: 555-317-8820",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "i'll expose all your private photos if you don't send me money",
+  "label": 1,
+  "tag": "threat"
+ },
+ {
+  "text": "my address is 55 cedar court, ring the bell twice",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "my bank login is user: jsmith pass: Sunshine!42",
+  "label": 1,
+  "tag": "pii"
+ },
+ {
+  "text": "his license plate is 7ABC123 and he lives in the blue house on the corner",
+  "label": 1,
+  "tag": "doxx"
+ },
+ {
+  "text": "f.u.c.k y.o.u",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "fuuuuuuck offfff",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "go k*ll yourself",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "you sh!thead",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "idi0t",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "y o u a r e a m o r o n",
+  "label": 1,
+  "tag": "evasion"
+ },
+ {
+  "text": "pndejo",
+  "label": 1,
+  "tag": "edge"
+ },
+ {
+  "text": "eres un hijo de puta",
+  "label": 1,
+  "tag": "intl"
+ },
+ {
+  "text": "fick dich du hurensohn",
+  "label": 1,
+  "tag": "intl"
+ },
+ {
+  "text": "ta gueule connard",
+  "label": 1,
+  "tag": "intl"
+ },
+ {
+  "text": "vai tomar no cu seu babaca",
+  "label": 1,
+  "tag": "intl"
+ }
+]
