@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="2048" height="2048">
+  <!-- the same logo and colors as the control panel (dark mode): accent #a9c5ff on background #12161c -->
+  <rect width="1024" height="1024" fill="#12161c"/>
+  <!-- the logo is 32x36; scaled 27x it fills about 85% of the picture, and Discord's round crop still leaves a margin -->
+  <g transform="translate(80 26) scale(27)">
+    <path d="M16 2 29 7v10c0 8-6 13-13 17C9 30 3 25 3 17V7L16 2Z" fill="#a9c5ff"/>
+    <path d="m9 13 3 10 4-7 4 7 3-10" stroke="#12161c" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+</svg>
