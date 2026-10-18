@@ -1,0 +1,16 @@
+# docker compose up -d
+# Put DISCORD_TOKEN and GUI_PASSWORD in a file called .env next to this one (see .env.example).
+# The panel is published to this machine only (127.0.0.1). For remote access use an SSH tunnel or an authenticated reverse proxy.
+services:
+  warden:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      GUI_PORT: "48731"
+    ports:
+      - "127.0.0.1:48731:48731"
+    volumes:
+      - warden-data:/data
+volumes:
+  warden-data:
