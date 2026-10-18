@@ -1,0 +1,42 @@
+# secrets and local data: never commit these
+.env
+.env.*
+!.env.example
+data/
+*.db
+*.db-*
+
+# build and tooling
+node_modules/
+dist/
+bench/out/
+coverage/
+*.log
+.DS_Store
+.claude/
+.vscode/
+.idea/
+
+# optional feedback address (see feedback.config.example.json): never commit it
+feedback.config.json
+
+# anything personal to one computer or one test server: never commit
+*.local
+*.local.*
+CLAUDE.local.md
+.claude/
+scratch/
+tmp/
+backup*/
+*.pid
+run.json
+open-key
+sessions.json
+logs/
+*.sqlite
+*.sqlite3
+*.pem
+*.key
+
+# local AI-assistant notes
+CLAUDE.md
