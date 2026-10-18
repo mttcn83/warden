@@ -1,0 +1,56 @@
+# Doxxing and swatting phrases (personal-info patterns like IPs and phone numbers live in src/rules/pii.ts).
+# One entry per line. Plain lines are whole-word phrases. Lines starting with `re:` are regexes matched against normalized text
+# (lowercase, leetspeak undone, repeated letters collapsed). Lines starting with # are comments. Edit freely.
+
+re:\b(dox|doxx|swat|doxxing|swatting)\s*(you|u|him|her|them)\b
+re:\b(i|we)\s*('?ll|will|gonna|am\s+going\s+to)\s+(dox|doxx|swat)\b
+leaking your address
+post your address
+i know where you live
+re:\b(find|figure)\s+out\s+where\s+(you|u)\s+(live|work|stay|go\s+to\s+school)\b
+re:\bi\s+know\s+where\s+(you|u)\s+(work|go\s+to\s+school|stay)\b
+# naming and locating a person
+re:\b(his|her|their)\s+real\s+name\s+is\b
+re:\bi\s+know\s+(your|ur)\s+(address|school|house|real\s+name|full\s+name|workplace|work)\b
+re:\b(he|she)\s+(lives|stays)\s+(at|on)\b
+re:\b(he|she)\s+goes\s+to\s+[a-z]+(\s+[a-z]+)?\s+(high|middle|elementary|school|college)\b
+re:\bhis\s+(address|number|phone|school)\s+is\b
+re:\bher\s+(address|number|phone|school)\s+is\b
+re:\b(go|come)\s+(get|find)\s+(him|her|them)\b
+re:\bfind\s+where\s+(you|u)\s+(live|work|stay)\b
+re:\b(i|we|they)\s+(know|found)\s+where\s+(you|u)\s+(live|work|stay|sleep)\b
+re:\b(send|give|drop|post)\s+(me\s+)?(your|ur)\s+(address|location|house|home)\b
+re:\bi\s+have\s+(her|his|their)\s+(number|address|nudes|pics|photos|location)\b
+re:\b(he|she)('?s|\s+is)\s+\w+\s+(and\s+)?goes\s+to\b
+re:\bhere'?s\s+(her|his|their)\s+(full\s+)?(address|number|phone|school|location|real\s+name|info|socials)\b
+# round 3
+re:\b(found|got|have|got\s+hold\s+of)\s+(her|his|their)\s+(home\s+)?(address|instagram|number|socials|location|real\s+name|school|workplace)\b
+re:\breal\s+name\s+is\s+\w+\b
+# round 4: blackmail
+re:\bi\s+have\s+(screenshots|your\s+(address|photos|pics|nudes|number|ip))\b
+re:\bi'?ll\s+(leak|expose|post)\s+(your|ur|them)\b
+re:\bmake\s+sure\s+everyone\s+(knows|finds\s+out|sees)\b
+# round 5
+re:\b(his|her|their)\s+(license\s+plate|plate|car|workplace|work|school|home)\s+(is|are)\b
+re:\b(he|she)\s+lives\s+(in|at|on)\s+the\b.{0,40}\b(house|apartment|building|corner|street|block|flat)\b
+re:\bexpose\s+(all\s+)?(your|ur)\b
+re:\bif\s+(you|u)\s+don'?t\s+(send|pay|give)\b.{0,30}\b(money|crypto|btc|usd|cash)\b
+# H1
+re:\bposting\s+(his|her|their)\s+\w+(\s*,\s*(and\s+)?(his|her|their)\s+\w+)+
+re:\b(dm|call|message|email|text)\s+(her|his|their)\s+(mom|mother|dad|father|boss|employer|school|parents|work)\b
+# H2
+re:\beveryone\s+(tell|dm|message|call|email|spam|report|harass)\s+(her|him|them)\b
+re:\b(found|got|have)\s+(his|her|their)\s+\w+(\s*,\s*(and\s+)?(his|her|their)\s+(real\s+)?\w+){1,}
+re:\bleaked\s+(her|his|their)\s+(nudes|address|number|photos|pics|info)\b|\bpost\s+(it|them)\s+everywhere\b
+re:\b(call|email|contact)\s+(her|his|their)\s+(employer|boss|school|work)\b.{0,40}\b(fired|expelled|ruin)\b|\bget\s+(her|him|them)\s+fired\b
+# gap sweep 2: having or asking for private info
+re:\bi('?ve|\s+have)\s+(got\s+)?(your|ur)\s+(location|ip|real\s+name|full\s+name|phone|photos?|pics)\b
+re:\b(send|give|drop|post|share|tell)\s+(me\s+)?(your|ur)\s+(snap|snapchat|insta|instagram|address|home\s+address|number|phone\s+number|location|nudes?|house\s+number|real\s+name)\b
+# casual-set gaps
+re:\bhere'?s\s+(his|her|their)\s+(insta|instagram|snap|snapchat|phone|number|address|socials|tiktok|twitter|discord)\b
+re:\b(his|her|their)\s+(full\s+)?name\s+is\s+\w+\s+\w+\b.{0,40}\b(phone|number|address|insta|snap)\b
+re:\b(go|everyone)\s+(bother|harass|spam|annoy|dm|call|message|report)\s+(him|her|them)\b
+re:\bwhat'?s\s+(your|ur)\s+(address|phone|number|location|snap|insta|real\s+name)\b
+# real-insult round
+re:\b(his|her|their)\s+(full\s+)?name\s+is\b.{0,60}\b(works?|lives?|goes\s+to|studies)\b
+re:\b(spam|harass|flood|swat|call)\s+(him|her|them)\b

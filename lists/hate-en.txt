@@ -1,0 +1,83 @@
+# Hateful statements about groups of people that use no slur. Counted with the slurs. Edit freely.
+re:\bgo\s+back\s+to\s+(where|the\s+place)\s+(you|u)\s+(came|come)\s+from\b
+re:\b(filthy|dirty|stupid|disgusting)\s+(immigrants?|foreigners?|refugees?|muslims?|jews?|blacks?|mexicans?|asians?|gays?)\b
+re:\b(are|is)\s+(all\s+)?(sub\s?human|vermin|parasites|cockroaches|a\s+disease)\b
+re:\b(subhuman|vermin|parasites)\s+(trash|scum|filth)\b
+re:\bshould\s+(all\s+)?(be\s+)?(wiped\s+out|exterminated|gassed|killed\s+off|put\s+down|deported|removed\s+from\s+the\s+earth)\b
+# mocking disabilities and illness (no slur words needed)
+re:\b(like|as\s+if)\s+(a\s+)?(\w+\s+){0,3}(with|has|have)\s+(down'?s?\s+syndrome|autism|aids|cancer)\b
+re:\b(you|u)\s+(have|got|must\s+have)\s+(autism|down'?s?\s+syndrome|aids)\b
+# round 2: sweeping statements about groups
+re:\b(muslims|jews|blacks|mexicans|immigrants|refugees|arabs|asians|gays|indians|romani|gypsies)\s+(are|r)\s+(all\s+)?(terrorists|criminals|thieves|rapists|dirty|scum|animals|savages|parasites|inferior|subhuman)\b
+re:\b(all|those|these)\s+(muslims|jews|blacks|mexicans|asians|gays|immigrants|arabs|refugees|trans\s+people|transgenders)\s+(are|should|need\s+to|must)\b
+re:\b(those|these|them)\s+(people\s+)?(are|is)\s+(all\s+)?(animals|savages|scum|filth|trash|vermin)\b
+re:\b(women|girls)\s+belong\s+in\s+the\s+kitchen\b
+re:\b(women|girls)\s+(are|r)\s+(inferior|stupid\s+by\s+nature|property)\b
+# round 5
+re:\bgo\s+back\s+to\s+the\s+(zoo|jungle|cage|farm)\b
+re:\b(people|folks|those\s+people)\s+from\s+(that|this|those|these|the|\w+)\s+(country|countries|place|religion|race|background|region)\s+(are|r)\s+(all\s+)?(thieves|liars|criminals|terrorists|rapists|animals|savages|scum|dirty|stupid|lazy|inferior)\b
+re:\b(religion|race|people)\s+(is|are)\s+(a\s+)?(disease|cancer|plague|virus)\b
+re:\bshould\s+(all\s+)?be\s+(eradicated|eliminated|purged|exterminated|erased)\b
+re:\bgo\s+home\s+(you\s+)?(stupid\s+|dirty\s+|filthy\s+)?(foreigner|immigrant|refugee)s?\b
+# round 6
+re:\bmake\s+me\s+a\s+sandwich\b
+re:\b(your|ur)\s+(people|kind|race|religion)\b.{0,40}\b(reason|problem|ruin\w*|destroy\w*)\b
+# H1: extremist slogans and group hatred
+re:\bwhite\s+power\b
+re:\b(heil|sieg)\s+(hitler|heil)\b
+re:\bholocaust\b.{0,40}\b(never\s+happened|hoax|fake|lie|myth)\b
+re:\bgreat\s+replacement\b
+re:\bgas\s+the\s+\w+
+re:\b(black|white|asian|jewish|arab|mexican|muslim|gay|trans|indian|chinese)\s+people\s+(are|r|is)\s+(\w+\s+)?(inferior|evil|sick|disgusting|mentally\s+ill|freaks|vermin|subhuman|scum)\b
+re:\bwomen\s+(shouldn'?t|should\s+not|can'?t|cannot)\s+(vote|drive|work|be\s+trusted|have\s+rights)\b
+re:\b(gay|trans|queer|lgbt\w*)\s+(people\s+|folks\s+)?(are|is)\s+(sick|an\s+abomination|disgusting|mentally\s+ill|freaks|perverts|degenerates)\b
+re:\bhomosexuals?\s+are\b
+re:\btrans(gender)?\s+people\b.{0,40}\b(don'?t\s+deserve|mentally\s+ill|freaks)\b
+re:\b(jews|muslims|blacks|gays|immigrants|zionists|jewish\s+people)\s+(control|run|own|are\s+behind)\s+(the\s+)?(media|world|banks|government|everything|hollywood)\b
+re:\bi\s+hate\s+(all\s+)?(jews|muslims|blacks|gays|whites|asians|mexicans|immigrants|trans\s+people|women|arabs)\b
+re:\bgo\s+back\s+to\s+(africa|china|mexico|india|asia|your\s+(hut|country|village|cave))\b
+re:\b(we|they)\s+don'?t\s+want\s+(your\s+kind|you\s+people)\b|\byour\s+kind\b.{0,20}\b(here|around|welcome)\b
+re:\byou\s+people\b.{0,35}\b(terrorists|criminals|savages|animals|thieves|parasites|ruining|ruin)\b|\bterrorists\s+is\s+all\b
+re:\bgo\s+be\s+gay\b
+re:\bstop\s+being\s+(so\s+)?(autistic|retarded|schizo|bipolar|gay|mental)\b
+re:\b(mongoloids?|downie|spaz|spastic|sperg)\b
+re:\b(dirty|filthy|stupid)\s+(gypsy|gypsies|pikey)\b
+re:\bgo\s+back\s+where\s+(you|u)\s+came\s+from\b
+re:\b(you|u)\s+savage\b
+# H2: group hatred by grammar (a group + "are" + a put-down)
+re:\b(?:muslims?|jews?|jewish\s+people|blacks?|black\s+people|white\s+people|whites|asians?|mexicans?|indians?|arabs?|africans?|latinos?|chinese|japanese|gays?|gay\s+people|lesbians?|trans(?:gender)?(?:\s+(?:people|women|men|folks))?|queers?|immigrants?|refugees?|foreigners?|disabled\s+people|old\s+people|fat\s+people|poor\s+people|christians?|atheists?|hindus?|sikhs?|buddhists?)\s+(?:are|r|is)\s+(?:all\s+|just\s+|so\s+|really\s+|such\s+)?(?:and\s+)?(?:lazy|greedy|dirty|stupid|dumb|criminals?|terrorists?|thieves|rapists?|animals|inferior|subhuman|evil|sick|disgusting|vermin|scum|parasites?|cancer|(?:a\s+)?burdens?|useless|worthless|trash|bad\s+drivers|mentally\s+ill|unnatural|abominations?|perverts?|freaks?|retards?|filthy|savages?|liars|cheats|pigs|idiots|hypocrites|brainwashed|cowards)\b
+re:\b(?:muslims?|jews?|jewish\s+people|blacks?|black\s+people|white\s+people|whites|asians?|mexicans?|indians?|arabs?|africans?|latinos?|chinese|japanese|gays?|gay\s+people|lesbians?|trans(?:gender)?(?:\s+(?:people|women|men|folks))?|queers?|immigrants?|refugees?|foreigners?|disabled\s+people|old\s+people|fat\s+people|poor\s+people|christians?|atheists?|hindus?|sikhs?|buddhists?)\s+(?:don'?t|do\s+not|shouldn'?t|should\s+not|can'?t|cannot)\s+(?:belong|deserve|have\s+the\s+right|be\s+(?:trusted|allowed))\b
+re:\b(?:muslims?|jews?|jewish\s+people|blacks?|black\s+people|white\s+people|whites|asians?|mexicans?|indians?|arabs?|africans?|latinos?|chinese|japanese|gays?|gay\s+people|lesbians?|trans(?:gender)?(?:\s+(?:people|women|men|folks))?|queers?|immigrants?|refugees?|foreigners?|disabled\s+people|old\s+people|fat\s+people|poor\s+people|christians?|atheists?|hindus?|sikhs?|buddhists?)\s+(?:aren'?t|are\s+not)\s+(?:real|human|people|normal)\b
+re:\b(?:muslims?|jews?|jewish\s+people|blacks?|black\s+people|white\s+people|whites|asians?|mexicans?|indians?|arabs?|africans?|latinos?|chinese|japanese|gays?|gay\s+people|lesbians?|trans(?:gender)?(?:\s+(?:people|women|men|folks))?|queers?|immigrants?|refugees?|foreigners?|disabled\s+people|old\s+people|fat\s+people|poor\s+people|christians?|atheists?|hindus?|sikhs?|buddhists?)\s+(?:steal|take)\s+(?:our|my)\s+jobs\b
+re:\b(?:muslims?|jews?|jewish\s+people|blacks?|black\s+people|white\s+people|whites|asians?|mexicans?|indians?|arabs?|africans?|latinos?|chinese|japanese|gays?|gay\s+people|lesbians?|trans(?:gender)?(?:\s+(?:people|women|men|folks))?|queers?|immigrants?|refugees?|foreigners?|disabled\s+people|old\s+people|fat\s+people|poor\s+people|christians?|atheists?|hindus?|sikhs?|buddhists?)\b.{0,30}\bshould\s+(?:be\s+)?(?:banned|deported|locked\s+up|killed|shot|hanged|castrated|sterili[sz]ed|removed|exterminated)\b
+re:\bgo\s+back\s+to\s+(?:your|ur)\s+own\s+country\b
+re:\bgo\s+back\s+to\s+the\s+kitchen\b
+re:\bstupid\s+(?:woman|women|girl|girls|female)\b
+re:\b(?:muslims?|jews?|blacks?|gays?|trans|immigrants?)\b.{0,25}\bdon'?t\s+belong\b
+re:\b(?:men|women|boys|girls)\s+(?:are|r)\s+(?:all\s+)?(?:pigs|scum|animals|trash)\s+and\s+(?:should|deserve)\b
+re:\b(?:look|act|play|sound|talk|type|write)s?\s+like\s+(?:a\s+)?(?:downs?|downie|retard\w*|mongol\w*|spaz\w*)\b
+re:\bdowns\s+(?:kid|child)\b
+# plain slur words (not covered by the swear library)
+wetback
+beaner
+spic
+chink
+gook
+kike
+towelhead
+raghead
+paki
+tranny
+shemale
+# H3
+re:\bwhite\s+lives\s+matter\s+more\b|\bprotect\s+(our|the)\s+(white\s+)?race\b|\brace\s+mixing\b|\bwhite\s+genocide\b
+re:\b(islam|judaism|christianity|hinduism|muslims|jews)\s+(is|are)\s+(a\s+)?(cancer|disease|plague|evil|cult)\b
+re:\bwomen\s+are\s+only\s+good\s+for\b|\brape\s+is\s+(justified|deserved|okay|fine)\b|\b(she|he)\s+was\s+asking\s+for\s+it\b|\bshe\s+deserved\s+(what\s+happened|to\s+be\s+raped)\b
+re:\b(you|u)\s+sand\s+n\w*\b
+# gap sweep 2
+re:\btypical\s+(woman|women|girl|girls|female|males?)\b.{0,30}\b(can'?t|cannot|always|never)\b
+# real-insult round
+re:\b(women|woman|girls|females?|men|boys|immigrants?|muslims?|jews|jewish\s+people|christians?|gays?|lesbians?|blacks?|whites?|asians?|mexicans?|arabs?|trans\s+people|disabled\s+people)\s+(are|is)\s+(all\s+|just\s+|too\s+|so\s+)?(stupid|dumb|inferior|subhuman|worthless|disgusting|trash|scum|vermin|animals|filth|a\s+disease|weak)\b
+re:\b(women|girls)\b.{0,40}\b(back\s+in\s+the\s+kitchen|make\s+me\s+a\s+sandwich)\b|\bget\s+back\s+(in|to)\s+(the\s+)?kitchen\b
+re:\bpeople\s+like\s+(you|u)\s+(shouldn'?t|should\s+not|don'?t\s+deserve|deserve\s+to\s+die|should\s+(all\s+)?(die|be\s+killed))\b
+re:\bi\s+hate\s+(everyone|everybody|all\s+of\s+(you|them)|every\s+one)\s+(who|that)\s+(looks?|is|are)\s+like\s+(you|u)\b

@@ -1,0 +1,124 @@
+# Scam, phishing and giveaway-fraud phrases. Regexes over normalized text (lowercase, leetspeak undone). Edit freely.
+re:\bfree\s+(discord\s+)?nitro\b
+re:\bnitro\s+(for\s+free|giveaway|gift)\b
+re:\b(claim|get|grab|redeem)\s+(your|ur|a|the|this)?\s*(free\s+)?(gift|nitro|reward|prize|airdrop|robux|v\s?bucks|vbucks|skin|skins)\b
+re:\b(steam|discord)\s+(gift|giveaway|reward)s?\b.*\b(click|claim|link|here)\b
+re:\byou('?ve|\s+have)\s+(been\s+)?(selected|chosen|gifted|won)\b
+re:\b(robux|v\s?bucks|vbucks)\s+generator\b
+re:\bfree\s+(robux|v\s?bucks|vbucks|skins|steam\s+gift)\b
+re:\b(crypto|bitcoin|btc|eth|ethereum)\s+(giveaway|airdrop|doubl\w+)\b
+re:\bdouble\s+your\s+(btc|eth|crypto|bitcoin|money|investment)\b
+re:\bsend\s+\d+(\.\d+)?\s*(btc|eth|usdt|sol)\b.*\b(get|receive|back)\b
+re:\bverify\s+your\s+(account|wallet|discord|steam)\s+(at|here|now|using|via)\b
+re:\b(dm|message|contact)\s+me\s+(for|to\s+get)\s+(free|cheap)\s+(nitro|robux|vbucks|v\s?bucks)\b
+re:\bi\s+(accidentally|mistakenly)\s+(reported|banned)\s+you\b
+re:\byour\s+account\s+(has\s+been|will\s+be)\s+(suspended|disabled|banned|terminated)\b.*\b(click|verify|link|appeal)\b
+# giveaways and "investments" (numbers are not matched: normalized text has digits turned into letters)
+re:\b(i'?m|im|i\s+am|we'?re|we\s+are)\s+giving\s+away\b.{0,40}\b(usd|dollars|crypto|btc|eth|nitro|robux|cash|iphone|ps5)\b
+re:\bgiving\s+away\b.{0,30}\b(crypto|btc|eth|nitro|robux|cash|usd)\b
+re:\b(dm|message|text)\s+me\b.{0,25}\b(invest|crypto|bitcoin|forex|trading|profit|earn|make\s+money)\b
+re:\bguaranteed\s+(returns?|profits?|income)\b
+re:\b(crypto|bitcoin|forex|trading)\s+(investment|signals?)\b.{0,40}\b(guaranteed|dm|message|profit|returns?)\b
+re:\byou\s+(won|have\s+won|'?ve\s+won)\s+(a|an|the)?\s*(free\s+)?(iphone|ps5|playstation|xbox|gift\s+card|prize|laptop|macbook)\b
+re:\b(enter|confirm|verify)\s+your\s+(login|password|details|credentials)\b.{0,30}\b(at|on|here)\b
+re:\b(steam|discord|gift|wallet)\s+(wallet\s+)?(code|card)s?\b.{0,30}\b(free|claim|here|click)\b
+re:\bfree\s+(steam|discord|gift|wallet)\b
+re:\b(boost|carry|level|rank\s+up)\s+(your|ur)\s+(rank|account|elo|level)\b.{0,40}\b(dm|pay|send|money|first)\b
+re:\bsend\s+\S+\s+first\b
+re:\bpay\s+(me\s+)?first\b
+re:\bearn\s+\S+\s+(a|per|every)\s+(day|week|hour)\b
+re:\bwork(ing)?\s+from\s+home\b.{0,40}\b(dm|earn|money|income|message)\b
+re:\b(send|give|tell)\s+me\s+(your|ur)\s+(password|login|token|code|2fa|pin)\b
+re:\b(admin|staff|mod|moderator|support|employee|team)\s+(from|at|of)\s+(discord|steam|roblox|epic|microsoft|apple|google)\b
+re:\bhot\s+(singles|girls|women|babes)\s+(in|near)\b
+re:\b(adult|nsfw|18\s?plus)\s+(content|pics|videos|model).{0,25}\b(click|dm|link)\b
+# round 3
+re:\bgiveaway\b.{0,30}\b(nitro|robux|vbucks|crypto|gift\s+card|eth|btc)\b
+re:\b(nitro|robux|vbucks|crypto)\b.{0,30}\bgiveaway\b
+re:\bmake\s+\S+\s+(a|per|every)\s+(day|week|month|hour)\b.{0,60}\b(trad|crypto|invest|dm|message|me)\b
+re:\bsend\s+(me\s+)?\S+\s*(btc|eth|usdt|sol|bitcoin|ethereum|doge)\b.{0,50}\b(back|double|return|get)\b
+re:\b(earn|make)\s+(quick|easy|fast)\s+(cash|money)\b
+re:\b(quick|easy|fast)\s+(cash|money)\b.{0,30}\b(message|dm|text|contact)\b
+re:\bcheck\s+(out\s+)?my\s+(profile|bio)\s+for\b
+re:\blink\s+in\s+(my\s+)?(bio|profile)\b
+re:\b(discord\s+)?(moderator|admin|staff|support)\s+here\b
+re:\byour\s+(server|account|channel)\s+(is|will\s+be|has\s+been)\s+(being\s+)?(deleted|banned|suspended|terminated|disabled|reported)\b
+# round 4: fake jobs, sellers, login pages
+re:\bno\s+experience\s+(needed|required|necessary)\b
+re:\b(hiring|recruiter|recruiting)\b.{0,80}\b(telegram|whatsapp|dm|message\s+me)\b
+re:\bmessage\s+me\s+on\s+(telegram|whatsapp|signal)\b
+re:\b(selling|sell)\s+(cheap\s+)?(nitro|robux|vbucks|accounts?|boosts?|followers)\b
+re:\bvouches\b
+re:\b(log\s?in|sign\s?in)\s+with\s+your\s+(discord|steam|google|account)\b
+re:\bconnect\s+your\s+wallet\b
+# round 5
+re:\b(buy|selling|sell)\s+(cheap\s+)?(\w+\s+)?(followers|likes|subs|subscribers|views)\b
+re:\bdouble\s+your\s+\w+\s+in\s+\S+\s+hours\b
+re:\b(youve|you'?ve|you\s+have)\s+been\s+(chosen|selected)\s+to\s+(test|try|play)\b
+re:\bsend\s+(me\s+)?(your|ur)\s+login\b
+re:\b(account|profile)\s+(is|was|has\s+been)\s+flagged\b
+# round 6
+re:\bsend\s+(\S+\s+)?(btc|eth|usdt|bitcoin|ethereum|crypto)\s+to\b
+re:\b(i'?m|i\s+am)\s+(a|an|the)\s+(mod|moderator|admin|staff)\b.{0,60}\b(dm|dms|verify|login|password|banned)\b
+re:\bverify\s+with\s+me\b
+re:\bor\s+you'?ll\s+be\s+(banned|kicked|muted)\b
+re:\bexclusive\s+airdrop\b
+re:\bconnect\s+your\s+(metamask|wallet|trust\s?wallet|phantom|ledger)\b
+re:\bsend(ing)?\s+me\s+(your|ur)\s+(login|password|token|code|2fa|pin)\b
+re:\bsend\s+(your|ur)\s+(bank|card|account|banking)\s+(details|info|number)\b
+# H1: scams
+re:\bfree\s+(\S+\s+){0,3}nitro\b
+re:\bscan\s+this\s+qr\b|\bvote\s+for\s+my\s+(cousin|friend|brother|sister|kid)\b
+re:\b(friend|someone)\s+sent\s+you\s+a\s+game\b|\bgame\s+to\s+test\b.{0,40}\bdownload\b
+re:\b(prince|barrister|inheritance|beneficiary|lottery)\b.{0,80}\b(bank|transfer|funds|percent|million)\b
+re:\bi\s+need\s+(your|ur)\s+(password|login|token|code|2fa|pin|details)\b
+re:\b(selling|sell)\s+(cheap\s+)?(\w+\s+){0,2}(boosts?|nitro|accounts?|followers)\b
+re:\b(buy|selling|sell)\s+(cheap\s+)?(\S+\s+){0,2}(followers|likes|subs|subscribers|views)\b
+re:\bverify\s+(your|their)\s+wallet\b
+re:\bcash\s?app\b.{0,60}\b(send|pay)\b|\bsend\s+\S+\s+and\s+i'?ll\s+send\b
+re:\b(from|with)\s+discord\s+(trust|support|safety|team|staff)\b|\bconfirm\s+(your\s+)?login\s+details\b
+re:\bfree\s+(\S+\s+)?(airpods|iphone|ps5|playstation|xbox|macbook|laptop|gift\s+card)\b
+re:\bpick\s+up\s+your\s+(free|prize|gift)\b
+re:\b(pay|send\s+me)\s+(first|upfront)\b
+re:\binstant\s+delivery\b
+re:\bfree\s+account\s+generator\b
+# H2
+re:\bfree\s+v[\s-]?bucks\b
+re:\bdm\s+me\s+(your|ur)\s+(password|login|token|pin|code|number)\b
+re:\bmust\s+join\b.{0,50}\b(or\s+(be\s+)?(banned|kicked|removed)|official)\b|\bofficial\s+server\b.{0,30}\bjoin\b
+re:\b(snap|snapchat|kik|telegram|insta)\b.{0,40}\b(pics|nudes|hot|sexy|girl|singles)\b
+re:\bonlyfans\b
+re:\b(crypto|trader|trading|signals|forex)\b.{0,60}\bt\.me\b|\bt\.me\b.{0,40}\b(crypto|signals|forex|trading)\b
+re:\b(buy|sell|selling)\s+(a\s+|my\s+)?(verified\s+|old\s+|cheap\s+)?(discord|steam|fortnite|roblox|netflix|spotify)\s+accounts?\b
+re:\bwho\s+(viewed|visited|checked|blocked|unfollowed|stalks)\s+(your|ur)\s+(profile|account)\b|\bsee\s+who\s+blocked\s+(you|u)\b
+re:\b(stuck|stranded)\s+(abroad|overseas)\b.{0,70}\b(send|wire|money)\b|\blost\s+my\s+wallet\b.{0,50}\b(send|money)\b|\bpay\s+(you\s+)?back\s+(double|triple|twice)\b
+# H3
+re:\bwe\s+(have\s+)?detected\b.{0,50}\b(login|activity|sign-?in)\b|\bsecure\s+your\s+account\s+(here|now)\b
+re:\b(provide|send|share|give|enter|input|submit)\s+(me\s+)?(your\s+)?(seed|recovery|secret)\s+phrase\b
+re:\b(otp|one[\s-]?time\s+(code|password)|verification\s+code|2fa\s+code|sms\s+code)\b.{0,90}\b(send|share|provide|give|tell)\b|\b(send|share|provide|give|tell)\b.{0,40}\b(otp|verification\s+code|2fa\s+code)\b
+re:\b(customs|delivery|redelivery|shipping)\s+fee\b|\bpackage\s+(could\s+not|couldn'?t)\s+be\s+delivered\b|\bunpaid\s+toll\b
+re:\bshortlisted\b|\b(whatsapp|telegram)\s+(us|me)\b|\bi\s+love\s+your\s+profile\b
+re:\b(soldier|military|army|navy|widow|doctor|engineer)\b.{0,50}\b(stationed|overseas|deployed|abroad)\b.{0,100}\b(funds|money|help|transfer)\b
+re:\braffle\b.{0,60}\b(send|cashapp|venmo|paypal)\b|\bsend\s+\S+\s+to\s+win\b
+re:\b(processing|release|handling|admin|clearance)\s+fee\b|\byou\s+won\s+the\s+lottery\b
+re:\binvest\s+in\s+my\b|\bearly\s+buyers\b|\bpump\s+(and\s+dump|signal|group)\b|\bbuy\s+this\s+coin\s+at\b
+re:\btired\s+of\s+being\s+broke\b|\bturned\s+\S+\s+into\s+\S+\b|\bdm\s+me\s+for\s+the\s+(secret|method)\b
+re:\bget\s+rich\b|\bmoney[\s-]?back\s+guarantee\b|\bproofs?\s+in\s+(dms?|my\s+bio|profile)\b
+re:\bi\s+promise\s+(it'?s|its)\s+safe\b|\bjust\s+run\s+it\b
+re:\bearning\s+\S+\s+(a|per|every)\s+(day|week|hour)\b
+re:\btradeoffer/new\b.{0,120}\bsend\s+me\b|\bsend\s+me\s+(your\s+)?\w+\s+and\s+i'?ll\s+send\s+(you\s+)?\S+\s+back\b
+re:\bdirt\s+cheap\b|\bsee\s+(her|his|their)\s+nudes\b
+re:\b(enter|use|type|put)\s+(in\s+)?(your|ur)\s+(discord|steam|google|facebook|instagram)\s+(login|password|credentials)\b|\b(log\s?in|sign\s?in)\s+with\s+(your\s+)?discord\b
+re:\bmigrate\s+(here|your\s+(tokens?|wallet))\b
+re:\bmy\s+password\b.{0,60}\b(it'?s|is)\s+(?!private|secret|safe|hidden)\S{4,}
+# gap sweep 2
+re:\bdelete\s+system\s?[3e][2z]\b|\brm\s+-rf\s+/|\bformat\s+c:
+re:\bsend\s+(me\s+)?(a\s+|your\s+)?(nitro|gift|steam|discord)\s+(link|code)\b
+re:\bcheap\s+(v[\s-]?bucks|robux|nitro|boosts)\b
+re:\b(unlock|see|view|watch)\s+(hot|nude|naked|sexy|leaked)\s+(pics|photos|videos|vids)\b
+# casual-set gaps
+re:\binvest\s+\S+\s+and\s+(get|receive)\s+\S+\s+back\b|\bget\s+\S+\s+back\s+in\s+\S+\s+hours\b
+# real-insult round
+re:\bunlock\s+(your\s+)?account\b.{0,40}\b(link|click|verify)\b|\b(click|use)\b.{0,30}\bunlock\s+(your\s+)?account\b
+re:\bbefore\s+(it'?s|it\s+is|you\s+(are|get)|your\s+account\s+(is|gets))\s+(banned|suspended|deleted|disabled|locked)\b.{0,40}\bhttps?:|\bhttps?:\S+.{0,40}\bbefore\s+(it'?s|it\s+is)\s+(banned|suspended)\b
+re:\b(click|open|use)\s+(this|the)\s+link\b.{0,60}\bbefore\s+(it'?s|it\s+is|you)\b.{0,20}\b(banned|suspended|deleted)\b

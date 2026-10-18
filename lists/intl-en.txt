@@ -1,0 +1,372 @@
+# Common insults in other languages (Spanish, German, French, Portuguese, Russian, Turkish). One entry per line, whole words/phrases.
+# Plain lines are insults. Lines starting with `slur:` are slurs. Accents are ignored. Edit freely, and send additions upstream.
+# Spanish
+hijo de puta
+hijueputa
+hdp
+ctm
+pendejo
+pendeja
+gilipollas
+cabron
+capullo
+imbecil
+idiota
+estupido
+estupida
+malparido
+zorra
+puta
+mamon
+culero
+boludo
+pelotudo
+huevon
+cierra la boca
+callate la boca
+slur:maricon
+# German
+arschloch
+wichser
+hurensohn
+scheisskerl
+missgeburt
+halt die fresse
+halt die klappe
+du idiot
+slur:spast
+# French
+connard
+connasse
+salope
+encule
+fils de pute
+ta gueule
+batard
+abruti
+cretin
+debile
+# Portuguese
+filho da puta
+vai se foder
+foda se
+babaca
+arrombado
+otario
+cala a boca
+slur:viado
+# Russian
+идиот
+дурак
+дура
+сука
+мудак
+ублюдок
+тупой
+урод
+заткнись
+иди нахуй
+slur:пидор
+slur:пидорас
+# Russian (written in Latin letters)
+suka
+mudak
+nahui
+zatknis
+slur:pidor
+# Turkish
+orospu
+orospu cocugu
+siktir
+amk
+aptal
+salak
+gerizekali
+serefsiz
+slur:ibne
+# more languages
+va te faire foutre
+va te faire enculer
+nique ta mere
+ntm
+tu es un con
+un con
+verpiss dich
+du bist dumm
+du bist so dumm
+halt's maul
+halts maul
+slur:schwuchtel
+# Chinese
+白痴
+傻逼
+傻b
+笨蛋
+闭嘴
+去死
+他妈的
+混蛋
+滚
+# Japanese
+バカ
+ばか
+死ね
+アホ
+クソ
+# Korean
+바보
+꺼져
+씨발
+죽어
+병신
+닥쳐
+# Arabic
+غبي
+أحمق
+اخرس
+ابن الكلب
+# H2: more languages
+# Spanish
+marica
+malnacido
+cabrona
+desgraciado
+hdlgp
+puta madre
+concha de tu madre
+conchetumadre
+culiao
+weon
+mamaguevo
+vete a la verga
+chinga tu madre
+pinche pendejo
+de mierda
+que te jodan
+eres una puta
+muerete
+slur:marica
+# Italian
+vaffanculo
+stronzo
+coglione
+figlio di puttana
+testa di cazzo
+puttana
+minchia
+bastardo
+deficiente
+cretino
+vai a morire
+# Portuguese
+vai morrer
+filha da puta
+desgraçado
+vagabundo
+cuzao
+arrombado
+# Russian
+мразь
+дебил
+сдохни
+сдох
+пошёл ты
+пошел ты
+пошел нахуй
+хуй
+блядь
+пизда
+чмо
+шлюха
+# Polish
+kurwa
+spierdalaj
+debil
+gnoju
+gnoj
+pierdol sie
+chuj
+jebac
+zamknij sie
+cipa
+dupek
+skurwysyn
+idiota
+# Dutch
+klootzak
+kankerlijer
+kanker
+rot op
+hoer
+eikel
+flikker op
+hou je kop
+# Swedish
+javla
+hall kaften
+fan ta dig
+fitta
+knulla dig
+# Turkish
+ananı sikeyim
+ananı
+siktir
+defol
+pezevenk
+yarrak
+sen tam bir aptalsin
+# Hindi/Urdu (Latin letters)
+madarchod
+bhosdike
+bhosdi
+chutiya
+gandu
+bakchod
+behenchod
+harami
+kutta
+kamina
+gaand
+chup kar
+mar ja
+# Indonesian
+anjing
+bangsat
+goblok
+tolol
+mati aja
+mampus
+kontol
+memek
+brengsek
+sialan
+bodoh
+# Filipino
+putang ina
+putangina
+gago
+tanga
+bobo
+mamatay ka na
+tangina
+ulol
+bwisit
+punyeta
+# Vietnamese
+đồ ngu
+địt mẹ
+đụ má
+con chó
+khốn nạn
+đồ chó
+thằng ngu
+cút đi
+chết đi
+# Chinese
+操你妈
+废物
+滚开
+去你妈
+# Arabic
+حمار
+يا ابن الكلب
+كس امك
+# H3: more languages
+# Arabic (Latin letters) and Arabic script, Persian
+ya kalb
+ibn el sharmoota
+kos omak
+ya himar
+sharmoota
+ibn el kalb
+احمق
+خفه شو
+کثافت
+حرامزاده
+# Hindi (Devanagari)
+बेवकूफ
+चुप रहो
+हरामी
+मादरचोद
+चूतिया
+कुत्ता
+# Japanese (Latin letters)
+baka yarou
+kuso yaro
+shine
+kisama
+temee
+# Thai
+โง่
+เหี้ย
+หุบปาก
+ไอ้โง่
+ควาย
+# Greek
+μαλάκα
+σκάσε
+ηλίθιε
+ηλίθιος
+βλάκας
+πουτάνα
+πεθάνεις
+# Hebrew
+אידיוט
+תסתום
+בן זונה
+חרא
+# Ukrainian
+дурень
+йди геть
+ідіот
+гандон
+мразота
+# Czech and Slovak
+kurvo
+drž hubu
+debil
+hovno
+zmrd
+# Romanian
+prost
+dracu
+muie
+taci din gura
+cacat
+jegos
+# Hungarian
+barom
+kuss
+kurva anyad
+hulye
+fasz
+geci
+# Finnish
+vittu
+saatana
+perkele
+idiootti
+haista vittu
+kusipaa
+# Norwegian and Danish
+faen ta deg
+hold kjeft
+rovhul
+kaeft
+fuck dig
+luder
+# Spanish / French / Portuguese extras
+puto
+hijo de perra
+andate a la mierda
+la concha de tu madre
+pendeja
+ferme la
+seu merda
+овца
+тупая овца
+# German
+ich hoffe du stirbst
+
+voce e um lixo
+morra

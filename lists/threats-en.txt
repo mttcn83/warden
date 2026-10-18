@@ -1,0 +1,219 @@
+# Threats and telling people to hurt themselves.
+# One entry per line. Plain lines are whole-word phrases. Lines starting with `re:` are regexes matched against normalized text
+# (lowercase, leetspeak undone, repeated letters collapsed). Lines starting with # are comments. Edit freely.
+
+kys
+kill yourself
+kill your self
+kill urself
+kill ur self
+go die
+hope you die
+hope u die
+you should die
+you should kill yourself
+neck yourself
+unalive yourself
+end yourself
+drink bleach
+hang yourself
+re:\b(go|just|please)\s+(kill|end|hang|off|unalive|neck)\s+(your\s*self|ur\s*self|urself|yourself)\b
+re:\b(why\s+(dont|don'?t)\s+you|you\s+should(nt|n'?t)?\s+(just\s+)?)\s*(kill|end|off)\s+(your\s*self|ur\s*self)\b
+re:\bnobody\s+(would\s+|will\s+)?(care|miss)s?\s+(you\s+)?(if|when)\s+(you|u)\s+(die|died|were\s+gone)\b
+
+# ("find you" phrases are deliberately left out: too common in games and jokes.)
+re:\b(i'll|i\s+will|i\s+am\s+going\s+to|i'?m\s+going\s+to|im\s+gonna|i'm\s+gonna|we'll|we\s+will|gonna)\s+(kill|murder|stab|shoot|hurt|rape|beat)\s+(you|u|ur\s*family)\b
+re:\b(i|we)\s+(hope|wish)\s+(you|u|ur\s*family)\s+(get|gets)?\s*(raped|murdered|killed|cancer)\b
+end it all
+end your life
+off yourself
+re:\byou\s+should\s+(just\s+)?end\s+it\b
+re:\b(i'll|i\s+will|i\s+am\s+going\s+to|i'?m\s+going\s+to|im\s+gonna|i'm\s+gonna|we'll|we\s+will|gonna)\b(\s+\w+){0,4}\s+(kill|murder|stab|shoot|hurt|rape|beat|strangle)\s+(you|u|ur\s*family|your\s+family)\b
+re:\b(find|hunt|track)\s+(you|u)\s+(down\s+)?(and|then)\s+(kill|hurt|beat|stab|shoot)\b
+re:\byou\s+should\s+(just\s+)?(disappear|vanish)\b
+re:\b(kill|gas|exterminate|execute|hang|burn)\s+(all|every|those|these)\s+(the\s+)?(jews|muslims|christians|blacks|whites|asians|gays|lesbians|trans(gender)?\s+people|women|immigrants|mexicans|arabs|indians|hispanics|latinos|migrants|refugees)\b
+re:\b(all|every|these|those)\s+(the\s+)?(jews|muslims|christians|blacks|whites|asians|gays|lesbians|trans(gender)?\s+people|women|immigrants|mexicans|arabs|indians|hispanics|latinos|migrants|refugees)\b.{0,24}\b(should|must|need\s+to|deserve\s+to|ought\s+to)\s+(die|burn|hang|be\s+(killed|shot|gassed|executed|exterminated|wiped\s+out))
+re:\b(drop\s+dead|die\s+in\s+a\s+(fire|ditch|hole))\b
+re:\b(go\s+)?(jump|leap)\s+off\s+(a|the)\s+(bridge|roof|building|cliff|balcony)\b
+re:\b(hang|hung)\s+(yourself|urself)\b
+re:\bi\s+hope\s+(you|u)\s+(get\s+)?(cancer|die|burn|choke|suffer|get\s+hit\s+by)\b
+re:\b(slit|cut)\s+(your|ur)\s+(wrists|throat)\b
+
+
+# more ways to say the same things
+re:\byou\s+(should|need\s+to|ought\s+to|better)\s+(just\s+)?(die|disappear|rot)\b
+re:\b(go|just)\s+(and\s+)?(die|rot)\s+(in\s+a\s+(fire|hole|ditch)|alone)\b
+re:\b(i|we)\s+(hope|wish)\s+(you|u)\s+(die|rot|suffer|burn|choke)\b
+re:\b(world|everyone)\s+(would\s+be|is)\s+better\s+(off\s+)?without\s+(you|u)\b
+re:\bdo\s+(everyone|us\s+all|the\s+world)\s+a\s+favou?r\s+and\s+(die|disappear|leave\s+forever|end\s+it)\b
+re:\b(rope|noose)\s+(yourself|urself)\b
+# violence and harm, in the ways people actually say it
+re:\b(i'?m|im|i\s+am|i'?ll|i\s+will|gonna|going\s+to)\s+(gonna\s+|going\s+to\s+)?(find|get|catch|hunt)\s+(you|u)\b.{0,25}\b(kill|break|hurt|beat|end|destroy|murder|shoot|stab)\b
+re:\b(break|snap|crack)\s+(your|ur)\s+(legs?|arms?|face|neck|jaw|fingers|nose|ribs)\b
+re:\b(smash|punch|kick|slap|stomp)\s+(your|ur)\s+(face|teeth|head|skull)\b
+re:\b(beat|kick|whoop)\s+(your|ur)\s+(ass|butt)\b
+re:\b(should'?ve|shoulda|should\s+have)\s+(aborted|drowned|killed|smothered)\s+(you|u)\b
+re:\bwish\s+(you|u)\s+(were|had)\s+(never|not)\s+(been\s+)?born\b
+re:\b(hope|wish)\s+(your|ur)\s+(whole\s+|entire\s+)?(family|mom|dad|mother|father|parents|kids|dog|cat)\b.{0,25}\b(die|dies|dead|cancer|killed|burn|rot|suffer|gets\s+hurt)\b
+re:^\W*(go\s+)?get\s+cancer\W*$
+re:\b(hope|wish)\s+(you|u)\s+(get|got|gets)\s+(hit|run\s+over|shot|stabbed)\b
+re:\b(go\s+)?jump\s+(off|in\s+front)\b.{0,15}\b(bridge|building|cliff|train|roof)\b
+re:\b(someone|somebody)\s+should\s+(shoot|kill|stab|hurt)\s+(you|u|him|her)\b
+# round 2: veiled threats
+re:\b(hope|wish)\s+(something|anything)\s+(terrible|bad|awful|horrible)\s+(happens|happen)\s+to\s+(you|u)\b
+re:\bwatch\s+(your|ur)\s+back\b
+re:\bsleep\s+with\s+(one|an)\s+eye\s+open\b
+re:\b(you\s+won'?t|you\s+will\s+not)\s+see\s+(me|it)\s+coming\b
+re:\bi'?ll\s+make\s+(you|u)\s+(regret|pay|suffer|sorry)\b
+re:\b(i'?m|im)\s+(coming\s+for|after)\s+(you|u)\b
+re:\bdelete\s+(yourself|urself)\b
+re:\bdo\s+the\s+world\s+a\s+favou?r\b
+re:\bend\s+(your|ur)\s+life\b
+re:\b(go\s+)?hang\s+(yourself|urself)\b
+# round 3
+re:\bgo\s+(and\s+|just\s+|fucking\s+|fvcking\s+|f\w{2,4}ing\s+)?die\b
+re:\b(neck|hang|rope|kill|unalive)\s+(your\s*self|ur\s*self|urself|yourself|yourselves)\b
+# round 4
+re:\b(i'?ll|i\s+will|gonna|going\s+to|imma|ima)\s+(end|finish)\s+(you|u)\b
+re:\bif\s+i\s+(see|catch|find|meet)\s+(you|u)\b.{0,40}\b(i'?ll|i\s+will|gonna|going\s+to)\b
+re:\b(you'?ll|you\s+will|u'?ll)\s+get\s+what'?s\s+coming\b
+re:\bwhat'?s\s+coming\s+to\s+(you|u)\b
+re:\bit'?s\s+(going\s+to|gonna)\s+hurt\b
+re:\bi\s+know\s+where\s+(they|your\s+\w+|ur\s+\w+)\s+(go|live|work|sleep)\b
+re:\b(hope|wish)\s+(you|u)\s+and\s+(everyone|everybody|all)\b.{0,25}\b(die|suffer|burn|rot)s?\b
+re:\bput\s+(you|u)\s+down\b
+re:\bshould\s+(just\s+)?(disappear|die|vanish|be\s+gone)\b.{0,60}\bbetter\s+off\b
+# round 5: violence and wishing harm, by grammar rather than by exact phrase
+re:\b(i'?ll|i\s+will|i'?m\s+(gonna|going\s+to)|im\s+(gonna|going\s+to)|imma|ima|gonna|going\s+to|we'?ll|we\s+will)\s+(\w+\s+){0,3}(kill|murder|stab|shoot|strangle|choke|burn|drown|beat|punch|hurt|break|smash|crush|bury|torture|assault|suffocate|poison|hit)\s+(\w+\s+){0,3}(you|u|ur|your|yourself|ya)\b
+re:\b(fist|foot|boot|knife|bullet|gun|hand|bat)\s+(is\s+)?(going\s+to|gonna|will)\s+(meet|find|go\s+through|land|hit)\b
+re:\b(hope|wish)\s+(you|u)\s+(\w+\s+){0,3}(die|choke|burn|rot|suffer|drown|bleed|fall\s+off|crash|get\s+(hit|hurt|shot|cancer|sick|killed|raped|stabbed|run\s+over))\b
+re:\b(you|u|your\s+(\w+\s+){0,2}family)\s+(\w+\s+){0,2}deserves?\s+to\s+(die|burn|suffer|rot|be\s+\w+ed)\b
+re:\bend\s+up\s+(dead|in\s+(a\s+)?(ditch(es)?|hospital|the\s+ground|a\s+body\s+bag|a\s+grave))\b
+re:\b(you'?d|you\s+would)\s+be\s+doing\s+(everyone|us|the\s+world)\s+a\s+favou?r\b
+re:\b(throw|push|shove|dump)\s+(you|u)\s+(in\s+front\s+of|off|down|into)\b
+re:\b(someone|somebody)\s+(really\s+)?should\s+(\w+\s+){0,2}(throw|push|put|hit|run\s+over|beat|strangle)\s+(you|u)\b
+# round 6
+re:\bget\s+(hit|run\s+over)\s+by\s+(a\s+)?(bus|car|truck|train)\b
+re:\b(shoot|bomb|blow)\s+up\s+(your|ur|the|a)\s+(school|class|mall|church|house|home|work|building)\b
+re:\b(i'?ll|i\s+will|i'?m\s+(gonna|going\s+to)|im\s+(gonna|going\s+to)|imma|ima|gonna)\s+(bomb|blow\s+up|torch|firebomb|burn\s+down|swat)\s+(your|ur)\s+\w+\b
+re:\b(coming|come|going|on\s+my\s+way)\s+(to|over)\s+(\w+\s+){0,3}(with|carrying|bringing)\s+(a\s+)?(knife|gun|bat|weapon|rifle|shotgun|axe|machete|crowbar)\b
+re:\bslit\s+(your|ur)\s+(throat|wrists)\b
+re:\b(drop|fall)\s+dead\b
+# H1: threats in more shapes
+re:\bsee\s+what\s+happens\s+(to\s+you|outside|next|after)\b
+re:\bput\s+(you|u)\s+in\s+(the\s+)?(hospital|ground|coffin|grave|body\s+bag|er)\b
+re:\bsleep\s+with\s+the\s+lights\s+on\b
+re:\bwalk\s+home\s+alone\b
+re:\bi'?m\s+in\s+(your|ur)\s+(city|town|area|neighborhood|neighbourhood|street)\b
+re:\blast\s+chance\s+to\s+(apologi[sz]e|run|leave|say\s+sorry)\b
+re:\byou'?re\s+(so\s+)?dead\b.{0,20}\b(i\s+mean\s+it|serious|trust\s+me|for\s+real)\b
+re:\bmake\s+(your|ur)\s+life\s+(a\s+)?(hell|misery|a\s+living\s+hell)\b
+re:\bbring\s+a\s+(doctor|ambulance|coffin|body\s+bag)\b
+re:\bhope\s+(someone|somebody)\s+(hurts?|kills?|rapes?|beats?|stabs?|shoots?)\s+(you|u)\b
+re:\bgo\s+play\s+in\s+(traffic|the\s+road)\b
+re:\b(sending|got|bought)\s+(you\s+)?a\s+rope\b.{0,20}\buse\b|\brope\b.{0,20}\buse\s+it\b
+re:\b(should\s+have|shoulda|should'?ve)\s+died\s+(at\s+birth|young|in)\b
+re:\b(do\s+a\s+flip|take\s+a\s+(long\s+)?walk)\s+off\s+(a|the)\s+(building|cliff|roof|pier|bridge)\b
+re:\bk[i1]ll?\s+(your\s*self|ur\s*self|yourself|urself)\b
+re:\bkil\s+(yourself|urself|your\s*self|ur\s*self)\b
+re:\b(just|go)\s+kms\b
+re:\bhope\s+(your|ur)\s+.{0,25}\b(is|are|will\s+be)\s+(fatal|deadly)\b
+re:\bput\s+a\s+bullet\s+(in|through|into)\b
+re:\b(family|mom|dad|kids|parents|whole\s+family)\b.{0,20}\bshould\s+(all\s+)?(get\s+)?(murdered|killed|raped|die|burn)\b
+re:\b(someone|somebody)\s+(really\s+)?should\s+(\w+\s+){0,2}(kidnap|stab|shoot|kill|rape|poison|punch|slap|burn)\s+(you|u)\b
+re:\b(shove|stuff|ram)\s+(my|a)\s+(fist|foot|knife|gun|boot)\s+(down|in|into|through)\s+(your|ur)\b
+re:\bmake\s+sure\s+(you|u)\s+(suffer|pay|regret|die)\b
+re:\b(school|class|mall|church)\s+(will|is\s+going\s+to|gonna)\s+(explode|burn|blow\s+up|be\s+shot)\b
+re:\bbomb\s+threat\b
+re:\bi\s+(have|got)\s+a\s+gun\b.{0,50}\b(use|school|kill|shoot|monday|tomorrow)\b
+re:\bplanning\s+something\s+(big|bad|terrible)\s+(at|for)\s+(school|work|the\s+mall)\b
+re:\b(shoot|bomb|blow\s+up)\s+(up\s+)?(the|my|our)\s+school\b
+re:\b(i\s+will|i'?ll)\s+(personally\s+)?(make\s+sure|see\s+to\s+it)\b.{0,20}\b(suffer|pay|die)\b
+# H2: threats in more shapes
+re:\b(i|we|they|he|my\s+\w+)('?ll|\s+will|'?m\s+going\s+to|\s+gonna|\s+am\s+going\s+to|'?re\s+going\s+to|\s+are\s+going\s+to).{0,50}\bmake\s+(you|u)\s+(regret|pay|suffer|sorry|bleed|cry|beg)\b
+re:\bi\s+know\s+(what\s+car|which\s+car|where\s+you\s+(park|live|work|go|sleep|study)|what\s+time\s+you|which\s+(school|gym|bus|house|floor))\b
+re:\bit\s+would\s+be\s+a\s+shame\s+if\s+something\s+happened\b|\bsomething\s+(bad\s+)?(happens|happened|might\s+happen)\s+to\s+(them|you|your)\b
+re:\b(find|hunt|get|go\s+after)\s+(your|ur)\s+(family|mom|dad|kids|parents|friends|brother|sister|wife|husband|girlfriend|boyfriend)\b
+re:\byou'?re\s+(getting|gonna\s+get|going\s+to\s+get)\s+(jumped|beaten|beat|stabbed|shot|killed|hurt|smashed|destroyed|dropped)\b
+re:\b(i|we)('?re|\s+are|'?ll|\s+will|'?m\s+going\s+to|\s+gonna)\s+(going\s+to\s+|gonna\s+)?(jump|attack|slap|stomp|rob|mug|drown|smash)\s+(you|u)\b
+re:\bbring(ing)?\s+a\s+(knife|gun|weapon|bat|blade)\s+to\b
+re:\bnever\s+see\s+(your|ur)\s+next\s+(birthday|christmas|day|year|week)\b
+re:\bget\s+ready\s+to\s+be\s+(beaten|hurt|killed|jumped|destroyed)\b|\btold\s+everyone\s+where\s+to\s+find\s+(you|u)\b
+re:\b(ruin|destroy|wreck)\s+(your|ur)\s+life\b
+re:\bmy\s+(brothers|friends|boys|gang|crew|cousins|family|dad|uncle)\s+(will\s+)?(find|get|jump|come\s+for|beat)\s+(you|u)\b|\bwhen\s+my\s+\w+\s+find\s+(you|u)\b
+re:\bwatch\s+the\s+news\b.{0,40}\b(was\s+me|you'?ll\s+know)\b
+re:\b(slap|beat|punch|kick|stomp|whoop)\s+the\s+(fuck|shit|hell|crap)\s+out\s+of\s+(you|u)\b
+re:\b(your|ur)\s+days\s+are\s+numbered\b
+re:\b(going\s+to|gonna|will)\s+teach\s+(you|u)\s+a\s+lesson\b|\bteach\s+(you|u)\s+a\s+lesson\b
+re:\bdie\s+in\s+a\s+(fire|car\s+fire|ditch|hole|crash|accident)\b
+re:\bhope\s+(a|the)\s+(truck|car|bus|train)\s+(hits|runs\s+over|crushes)\s+(you|u)\b
+re:\b(you|u)\s+should\s+(be|get)\s+(shot|hanged|hung|executed|killed|stabbed|burned|beaten|lynched|put\s+down)\b
+re:\b(needs?\s+to|should)\s+(take\s+(you|u)\s+out|shoot\s+(you|u)|kill\s+(you|u)|stab\s+(you|u))\b
+re:\bend\s+(your|ur)\s+(\w+\s+)?life\b
+re:\b(take|swallow)\s+(the\s+|a\s+)?(whole\s+)?(bottle|pack|box)\s+of\s+pills\b|\bsleep\s+forever\b|\boverdose\b.{0,15}\b(you|u|already)\b
+re:\bnobody'?s\s+stopping\s+(you|u)\b|\bdo\s+it\W+(jump|hang|cut|end)\b
+re:\b(kill|shoot|hang|execute|lynch)\s+(all|every)\s+(the\s+)?(cops|police|politicians|jews|muslims|blacks|whites|gays|immigrants|men|women|christians|trans\s+people|landlords)\b
+re:\b(cops|police|politicians|presidents?|landlords)\b.{0,30}\b(should|deserve\s+to)\s+(all\s+)?(be\s+)?(shot|hanged|hung|killed|executed|castrated|die)\b
+re:\bdeserve\s+to\s+die\b
+re:\b(he|she|they|the\s+\w+)\s+should\s+be\s+(hanged|hung|shot|executed|lynched)\b
+re:\b(just\s+)?die\s+already\b|\bjust\s+die\b
+re:\b(i|we)('?ll|\s+will|'?m\s+going\s+to|\s+gonna)\s+(make|see\s+to\s+it)\b.{0,30}\b(you|u)\b.{0,15}\b(suffer|pay|regret)\b
+re:\bi\s+(recorded|have|got)\s+(your|ur)\s+(cam|webcam|video|screen|nudes)\b
+re:\bpay\s+me\s+(in\s+)?(bitcoin|btc|crypto)\b.{0,30}\bor\b
+re:\bor\s+everyone\s+(sees|will\s+see|finds\s+out|knows)\b
+# other languages: "I'll kill you"
+re:\b(ti\s+ammazzo|te\s+voy\s+a\s+matar|ich\s+bringe\s+dich\s+um|je\s+vais\s+te\s+tuer|vou\s+te\s+matar|seni\s+oldurecegim|saya\s+akan\s+membunuhmu|papatayin\s+kita|mau\s+bunuh\s+lu|vou\s+te\s+matar|tao\s+se\s+giet\s+may)\b
+我杀了你
+殺す
+죽여버릴
+سأقتلك
+я тебя убью
+re:\b(should|go|just|please|need\s+to|ought\s+to)\s+(\w+\s+)?(kill|hang|off|end)\s+(themselves|himself|herself)\b
+re:\bi\s+know\s+where\s+(she|he|they|\S+)\s+(lives|works|goes|stays|sleeps)\b
+re:\bi'?ll\s+be\s+waiting\s+(there|outside|for\s+(you|u|her|him))\b.{0,30}\b(if|when)\b
+# H3
+re:\b(kill|shoot|hang|execute|lynch|burn|gas|exterminate)\s+(all\s+)?the\s+(cops|police|politicians|jews|muslims|blacks|whites|gays|immigrants|men|women|christians|liberals|conservatives)\b
+re:\bthank\s+god\s+for\s+(school\s+)?shooters\b|\bone\s+less\s+(liberal|conservative|jew|muslim|black|gay|immigrant|\w+)\b
+re:\bi\s+wish\s+more\s+of\s+them\s+would\s+die\b
+re:\bknock\s+(your|ur)\s+teeth\s+out\b|\bhow\s+fast\s+i\s+can\s+get\s+to\s+(your|ur)\s+(door|house|place)\b
+re:\bi\s+know\s+(your|ur)\s+(schedule|routes?|routine|address|school|locker|car|number|name|classes)\b
+re:\byou\s+never\s+know\s+who'?s\s+watching\b|\bdon'?t\s+walk\s+alone\b
+re:\bi'?m\s+(outside|at|near)\s+(your|ur)\s+(house|door|place|home|school|window|work)\b
+re:\bi'?ve\s+been\s+(watching|following|stalking)\s+(you|u)\b
+re:\b(you|u)\s+don'?t\s+deserve\s+to\s+(live|exist|breathe)\b
+re:\bhope\s+(your|ur)\s+(baby|kid|child|son|daughter|dog|cat|mom|dad)\s+(dies|dead|gets\s+(sick|hurt|killed|cancer))\b
+re:\b(go\s+)?get\s+raped\b|\bhope\s+(you|u)\s+get\s+(beaten|raped|killed|murdered)\b
+re:\b(you'?ll|you\s+will)\s+die\s+alone\b|\bno\s+one\s+will\s+come\s+to\s+(your|ur)\s+funeral\b
+re:\bsewer\s*slide\b|\bwalk\s+off\s+a\s+short\s+pier\b|\bsit\s+in\s+traffic\b.{0,15}\bpermanently\b
+re:\balt\s*\+?\s*f[4a]\s+(your|ur)\s+life\b|\b(yeet|toss|throw)\s+(yourself|urself)\s+(off|into|in\s+front)\b|\blog\s+off\s+(for\s+good|permanently|forever)\b|\bctrl\s*\+?\s*alt\s*\+?\s*del\w*\s+(yourself|urself)\b
+re:\bunalive\s+(yourself|urself|ur\s*self|your\s*self)\b|\buninstall\s+(life|yourself|urself)\b
+re:\b(someone|somebody)\s+(really\s+)?should\s+(\w+\s+){0,2}(beat|hit|punch|slap|stab|shoot|kill|hurt)\s+(him|her|them)\b
+re:\bfollow\s+(you|u)\s+home\b|\bnobody\s+will\s+find\s+(the\s+)?(body|you)\b
+re:\bhope\s+(your|ur)\s+(car|pc|computer|phone|house|bike|plane|flight)\s+(breaks\s+down|crashes|burns|explodes|dies|falls)\b
+re:\b(you|u)\s+should\s+(just\s+)?(unalive|die|disappear|vanish|rot)\b
+re:\b(you|u)\b.{0,25}\bunalive\b|\bunalive\b.{0,25}\b(you|u|ur)\b
+# gap sweep: intrusion and stalking
+re:\b(i'?m|im|i\s+am|i\s+will|i'?ll|gonna|going\s+to)\s+(\w+\s+){0,3}(come|get|walk|barge|sneak|break)\s+(in|into)\s+(your|ur)\s+(house|home|room|bedroom|apartment|flat|window|place)\b
+re:\bi\s+know\s+where\s+(they|your\s+\w+|ur\s+\w+)\s+(go|goes|live|lives|work|works|sleep|sleeps|study|studies)\b
+re:\b(you|u)\s+(can'?t|cant|cannot)\s+(hide|run|escape)\b.{0,25}\b(i|we)('?ll|\s+will)?\s+(find|get|catch)\b
+re:\bi\s+(can\s+)?see\s+(you|u)\s+(at|in|through|from|outside)\s+(the\s+)?(window|door|house|room)\b
+# gap sweep 2: veiled threats and attacks on the server
+re:\btell\s+(your|ur)\s+(parents|mom|dad|family|friends|kids)\s+(goodbye|bye|i\s+said\s+hi)\b
+re:\benjoy\s+(your|ur)\s+last\s+(week|day|night|days|hours|weekend)\b
+re:\b(you'?re|you\s+are|u\s+are|you\s+will|you'?ll)\s+(going\s+to\s+|gonna\s+)?disappear\b.{0,30}\b(nobody|no\s+one)\b
+re:\b(i'?ll|i\s+will|gonna|going\s+to)\s+turn\s+(you|u)\s+into\s+a\s+(headline|statistic|memory|ghost)\b
+re:\bsay\s+goodbye\s+to\s+(your|ur)\s+(account|family|life|friends|kids|house|pc)\b
+re:\b(i'?ll|i\s+will|gonna|going\s+to|we'?ll|we\s+will)\s+(raid|nuke|crash|ddos|dox|mass\s+report|spam)\s+(this|the|your|that)\s+(server|chat|channel|community|guild)\b
+re:\b(my|our)\s+(botnet|army\s+of\s+bots|alts)\b.{0,40}\b(take|bring|tear)\s+(this|the|your)\s+(server|chat)\s+down\b|\bbotnet\b.{0,30}\bserver\b
+re:\bkeep\s+making\s+alts\s+until\b|\bban\s+evasion\b.{0,30}\balts?\b
+# casual-set gaps
+re:\b(house|home|door|window|school|room|place)\b.{0,40}\byou\s+(can'?t|cannot|cant)\s+stop\s+me\b|\byou\s+(can'?t|cannot|cant)\s+stop\s+me\b.{0,40}\b(house|home|door|window|school|room)\b
+re:\b(find|get|catch)\s+(you|u)\s+(irl|in\s+real\s+life|outside|after\s+school)\b
+re:\b(your|ur)\s+(family|mom|dad|kids|parents)\s+(is\s+|are\s+)?(will\s+|gonna\s+|going\s+to\s+)?(pay|suffer|regret|die|burn)\b
+# real-insult round
+re:\b(breaking|break|snap|crack|smash)\s+(your|ur)\s+(legs?|arms?|neck|fingers|face|jaw|nose|skull|bones?|ribs?)\b
+re:\b(keep|continue)\s+(talking|it\s+up|testing\s+me|pushing|running\s+your\s+mouth)\b.{0,30}\b(i'?ll|i\s+will|ill|imma)\s+(show|turn|come|find|get)\b
+re:\bi'?ll\s+be\s+waiting\s+(outside|at|near)\b.{0,25}\b(your|ur)\s+(work|school|job|house|home|place|door)\b
+re:\bwatch\s+what\s+happens\s+to\s+(your|ur)\s+(dog|cat|family|kids?|children|mom|dad|sister|brother|house|car|pet)\b
+re:\bpray\s+(that\s+)?i\s+(never|don'?t)\s+(meet|see|find|catch)\s+(you|u)\b
+re:\bi'?m\s+(gonna|going\s+to)\s+(ruin|expose|end)\s+(you|u|your\s+life)\b

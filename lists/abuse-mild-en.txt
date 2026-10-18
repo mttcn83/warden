@@ -1,0 +1,8 @@
+# Mild put-downs. Teasing between friends often sounds like this, so a laugh, an emoji or a "jk" next to one cancels it.
+re:\b(you'?re|you\s+are|ur|u\s+are)\s+the\s+(worst|dumbest|stupidest|ugliest|most\s+(annoying|pathetic|useless|hated))\b
+re:\b(please\s+)?(stop|quit)\s+(typing|talking|posting|speaking)\b
+re:\b(you'?re|you\s+are|ur)\s+so\s+sad\b
+re:\b(cope\s+harder|keep\s+coping|mald\s+more)\b
+re:\bgg\s*ez\b
+re:\b(bot|noob|scrub)\s+diff\b
+re:\b(you|u)\s+(play|aim|run|fight|move|type|think|act)\s+like\s+(a\s+|an\s+)?(bot|noob|potato)\b
